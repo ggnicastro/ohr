@@ -1,4 +1,4 @@
-Análise OhR Diogo
+Análise OhR Diogooogggg
 =====================
 Coleta de homólogos utilizando 3 diferentes [sementes](./data/ohr_seeds.fa)  
 - MfOhr.fa
