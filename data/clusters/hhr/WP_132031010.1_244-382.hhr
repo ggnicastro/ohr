@@ -1,0 +1,1753 @@
+Query         WP_132031010.1_244-382
+Match_columns 140
+No_of_seqs    3 out of 3
+Neff          1.83564
+Searched_HMMs 192
+Date          Thu Aug  5 11:33:01 2021
+Command       hhsearch -i WP_132031010.1_244-382.aln -d ../PaOhr -M 50 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 WP_132031010.1_244-382         100.0 1.7E-83 8.7E-86  480.8   0.0  140    1-140     1-140 (140)
+  2 PHR62075.1_104-224              99.9 3.2E-33 1.7E-35  198.1   0.0  116   25-140    18-143 (143)
+  3 GBC69866.1_80-182               99.9 7.1E-30 3.7E-32  180.3   0.0  116   24-139     2-128 (128)
+  4 PQO22612.1_9-154                98.5 3.9E-13   2E-15   91.5   0.0  127   14-140    14-155 (155)
+  5 KPP83905.1_49-147               97.9   6E-11 3.1E-13   78.8   0.0  114   22-135    12-136 (137)
+  6 MBI2566328.1_6-131              97.2 8.4E-09 4.4E-11   63.9   0.0  111   27-140    19-134 (134)
+  7 WP_089766601.1_36-169           96.9 2.4E-08 1.3E-10   65.3   0.0  123   18-140    19-152 (152)
+  8 WP_109558599.1_2-102            96.9 3.2E-08 1.7E-10   62.3   0.0  112   27-140    21-137 (137)
+  9 WP_201517884.1_5-141            96.8 5.5E-08 2.9E-10   60.2   0.0  113   28-140    28-152 (152)
+ 10 MBI5449743.1_275-399            96.5 1.8E-07 9.2E-10   57.1   0.0  112   28-140    26-143 (143)
+ 11 WP_092625006.1_54-171           96.5 1.8E-07 9.4E-10   59.0   0.0  111   29-139    35-156 (159)
+ 12 MBM3255383.1_7-131              96.2   4E-07 2.1E-09   55.6   0.0  113   25-140    17-130 (130)
+ 13 PLX67796.1_11-130               96.2 4.7E-07 2.4E-09   56.5   0.0  110   27-140    18-133 (133)
+ 14 HEB31232.1_17-118               96.0 7.3E-07 3.8E-09   55.1   0.0  111   27-140    17-132 (132)
+ 15 WP_056176361.1_5-133            95.9   1E-06 5.4E-09   55.0   0.0  105   29-139    21-130 (130)
+ 16 WP_055408569.1_10-135           95.7 1.9E-06 9.7E-09   51.8   0.0  110   28-140    23-137 (139)
+ 17 MBC8067343.1_11-126             95.6 2.1E-06 1.1E-08   53.1   0.0  109   29-140    20-134 (134)
+ 18 WP_121626582.1_99-211           95.6 2.4E-06 1.2E-08   52.7   0.0  110   31-140     1-120 (120)
+ 19 MBN9566681.1_12-109             95.3 4.6E-06 2.4E-08   51.2   0.0  113   27-140    20-137 (137)
+ 20 PKL77782.1_3-133                95.1 5.6E-06 2.9E-08   50.1   0.0  108   30-140    27-139 (139)
+ 21 WP_204837643.1_3-149            95.0 6.8E-06 3.5E-08   50.9   0.0  110   28-140    25-139 (139)
+ 22 OLE71304.1_31-168               95.0 7.7E-06   4E-08   51.0   0.0  113   26-138    20-143 (144)
+ 23 MBI3378352.1_45-172             94.8 9.4E-06 4.9E-08   50.2   0.0  134    4-140     7-150 (150)
+ 24 WP_184364429.1_63-184           94.8   1E-05 5.2E-08   49.5   0.0  114   27-140    22-146 (148)
+ 25 WP_190141974.1_6-141            94.3 1.9E-05 9.8E-08   46.7   0.0  101   39-140    41-142 (142)
+ 26 MBM4263653.1_46-167             94.3   2E-05   1E-07   47.8   0.0  107   29-135     5-122 (122)
+ 27 EMA47281.1_10-134               93.3 5.3E-05 2.7E-07   45.5   0.0  109   28-139    18-127 (127)
+ 28 NOQ91158.1_27-117               92.9 7.3E-05 3.8E-07   43.4   0.0   99   39-140     2-100 (100)
+ 29 HBZ34859.1_2-102                92.8 7.5E-05 3.9E-07   44.1   0.0  108   30-140    23-135 (135)
+ 30 MBJ7334753.1_12-145             92.7 8.1E-05 4.2E-07   44.2   0.0  112   29-140    28-151 (151)
+ 31 TRO49093.1_32-127               92.7 8.1E-05 4.2E-07   43.7   0.0   98   39-139    12-109 (109)
+ 32 NLY97658.1_4-139                91.6 0.00016 8.2E-07   41.7   0.0  119   21-140    18-143 (143)
+ 33 NKC14880.1_29-121               91.0 0.00021 1.1E-06   41.4   0.0  106   30-140    10-115 (115)
+ 34 GHN02128.1_7-130                90.5 0.00026 1.4E-06   41.4   0.0  100   39-140    35-134 (134)
+ 35 WP_025686538.1_4-139            90.0 0.00032 1.7E-06   40.5   0.0  102   39-140    41-147 (147)
+ 36 NLO74005.1_17-131               89.6 0.00037 1.9E-06   41.1   0.0  125    9-140    11-147 (147)
+ 37 GGU16139.1_1-99                 89.4 0.00039   2E-06   40.8   0.0  112   28-140    25-142 (142)
+ 38 TVQ38026.1_37-183               89.3  0.0004 2.1E-06   41.1   0.0  115   26-140    33-159 (159)
+ 39 MBK9730424.1_3-134              87.6 0.00067 3.5E-06   39.0   0.0  131    8-140    15-147 (147)
+ 40 MBO87141.1_28-144               85.7   0.001 5.5E-06   37.9   0.0  109   29-139    21-134 (134)
+ 41 MBM4074294.1_55-162             84.4  0.0014 7.1E-06   37.5   0.0  114   27-140    25-150 (150)
+ 42 WP_203629635.1_15-140           82.9  0.0018 9.2E-06   37.2   0.0  114   27-140    19-138 (138)
+ 43 KTC56145.1_1-101                82.8  0.0018 9.3E-06   37.5   0.0  101   39-140    41-141 (141)
+ 44 MBL8114860.1_2-142              79.9  0.0028 1.4E-05   36.6   0.0  132    2-140    13-150 (150)
+ 45 RPJ43666.1_41-171               78.9  0.0031 1.6E-05   36.4   0.0  114   27-140    29-153 (153)
+ 46 MBK6315638.1_3-139              78.3  0.0034 1.8E-05   34.5   0.0  102   39-140    40-143 (143)
+ 47 WP_089404091.1_32-140           76.2  0.0043 2.2E-05   35.1   0.0  109   27-139    19-132 (132)
+ 48 WP_015258636.1_36-133           69.8  0.0079 4.1E-05   33.3   0.0   96   39-138    20-115 (115)
+ 49 PYO48835.1_2-120                69.2  0.0084 4.4E-05   33.4   0.0  108   27-140    14-122 (122)
+ 50 WP_102742664.1_3-133            67.7  0.0095 4.9E-05   33.5   0.0  101   31-136    24-129 (131)
+ 51 XP_019042228.1_55-163           67.3  0.0097 5.1E-05   32.9   0.0  115   26-140    21-147 (147)
+ 52 EQB65907.1_48-165               67.3  0.0098 5.1E-05   33.7   0.0  113   26-139    19-137 (137)
+ 53 WP_094047412.1_23-125           63.0   0.014   7E-05   31.8   0.0  112   28-140     7-127 (127)
+ 54 PTQ51211.1_9-143                61.3   0.015 7.9E-05   31.2   0.0  117   23-140    21-144 (145)
+ 55 MBN9605167.1_65-177             60.5   0.016 8.4E-05   32.5   0.0  114   15-133    16-140 (140)
+ 56 WP_115542419.1_27-164           59.4   0.017 9.1E-05   32.1   0.0  115   26-140    30-156 (156)
+ 57 NHI91738.1_5-152                58.3   0.019 9.7E-05   31.6   0.0  115   26-140    17-141 (141)
+ 58 NVM35348.1_274-382              57.8   0.019  0.0001   32.1   0.0  100   25-124    22-131 (139)
+ 59 MBE7174794.1_17-137             56.1   0.021 0.00011   31.5   0.0  102   39-140    49-155 (155)
+ 60 WP_069718593.1_23-127           54.6   0.024 0.00012   30.4   0.0  100   40-140    25-125 (125)
+ 61 HCN83455.1_5-101                54.4   0.024 0.00013   30.2   0.0  102   39-140    26-129 (129)
+ 62 WP_180982949.1_7-130            53.3   0.026 0.00013   30.9   0.0  110   27-139    21-135 (138)
+ 63 RLG10319.1_2-98                 51.6   0.029 0.00015   30.3   0.0   91   39-129    14-110 (116)
+ 64 WP_205336404.1_31-172           46.2    0.04 0.00021   30.2   0.0  116   25-140    17-145 (145)
+ 65 SHJ71444.1_5-98                 42.5   0.049 0.00026   29.2   0.0  112   29-140     4-126 (126)
+ 66 WP_127189166.1_10-133           42.1    0.05 0.00026   29.4   0.0   97   42-139    35-133 (133)
+ 67 WP_063556588.1_3-130            41.9   0.051 0.00027   29.1   0.0  113   26-138    15-132 (133)
+ 68 OLD13946.1_30-137               38.9   0.061 0.00032   29.0   0.0  100   30-129    17-128 (129)
+ 69 RIE10253.1_130-244              37.7   0.066 0.00034   28.9   0.0  113   26-140    19-134 (134)
+ 70 WP_070655707.1_1-107            36.6    0.07 0.00037   29.1   0.0  118   23-140    14-143 (143)
+ 71 NER80004.1_8-128                35.3   0.076  0.0004   28.1   0.0  111   26-139    13-128 (128)
+ 72 WP_010291756.1_3-135            34.2   0.081 0.00042   28.2   0.0  118   22-140    11-130 (130)
+ 73 RJS50295.1_64-209               33.4   0.085 0.00044   28.2   0.0  129    2-140     7-148 (148)
+ 74 MBE6108391.1_24-120             32.4   0.091 0.00047   27.7   0.0   96   44-140    32-127 (127)
+ 75 MBE0700626.1_3-135              31.4   0.097 0.00051   27.4   0.0  100   39-140    37-137 (137)
+ 76 WP_009451638.1_24-135           28.5    0.12 0.00061   27.3   0.0  110   25-135     4-122 (123)
+ 77 WP_094373617.1_71-173           28.1    0.12 0.00063   26.9   0.0   96   39-137    19-114 (115)
+ 78 MBI9043196.1_33-125             26.0    0.14 0.00072   25.9   0.0   93   43-138     3-95  (95)
+ 79 PYU16216.1_3-104                25.7    0.14 0.00074   27.0   0.0  102   39-140    39-142 (142)
+ 80 OGG01700.1_29-173               25.2    0.15 0.00076   27.5   0.0  114   27-140    31-156 (156)
+ 81 WP_139149186.1_4-108            23.8    0.16 0.00084   27.0   0.0   89   39-131    38-130 (139)
+ 82 WP_129189110.1_4-151            23.7    0.16 0.00085   26.5   0.0  111   30-140    40-156 (156)
+ 83 ORY46834.1_51-170               21.4    0.19   0.001   25.7   0.0  116   24-140    20-141 (141)
+
+No 1
+>WP_132031010.1_244-382
+Probab=100.00  E-value=1.7e-83  Score=480.83  Aligned_cols=140  Identities=70%  Similarity=1.067  Sum_probs=137.6  Template_Neff=1.800
+
+Q WP_132031010.1    1 VTWKVNGEGSRDFATGLYHSRVALNRAGATVFAFTTDeTASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLV   80 (139)
+Q Consensus         1 v~whV~a~G~~Df~~Glv~t~Vgfpea~adrw~~~tD.~a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLv   79 (140)
+                      |+|||+++|++||++|+|+|+|||+++.+..|.|.+| ..++.||+||+||++|+||||||||+||.+.+||+|++.|++
+T Consensus         1 v~whV~a~G~~Df~~Glv~t~Vgfpea~adrw~~~tD.~a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLv   79 (140)
+T WP_132031010.1    1 VTWHVNAEGSRDFATGLVHTRVGFPEAGADRWAFTTD.TASGRAPSPLTYFSIGTAFCYHTQLCRYVDVRRLPIRGVRLV   79 (140)
+Confidence            7999999999999999999999999999999999999 999999999999999999999999999999999999999999
+
+
+Q WP_132031010.1   81 QMSPWGVRDGTGEAFAYDTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        80 Q~S~f~~~~t~a~A~p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      |.++|......+.+.|.+||+|+++..++|..+.|+..|+++||+|.++..++|+...|.|
+T Consensus        80 Q~S~f~~~~t~a~A~p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+T WP_132031010.1   80 QMSPFGVRDTTAEAFPYDTHLFLQGECDDEQTETLQRIAANTCYAHRALETEVEVTFTVSV  140 (140)
+Confidence            9999999999999999999999999999999999999999999999999999999988875
+
+
+No 2
+>PHR62075.1_104-224
+Probab=99.93  E-value=3.2e-33  Score=198.10  Aligned_cols=116  Identities=34%  Similarity=0.595  Sum_probs=113.9  Template_Neff=5.400
+
+Q WP_132031010.1   25 NRAGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR-----DGTGEA   94 (139)
+Q Consensus        25 pea~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~-----~t~a~A   93 (140)
+                      +++++++|+|+|| |     |++.||+||+||+||+|||||||++||++++|++|+++||+|+++|+..     ++.|.+
+T Consensus        18 ~~~~~~~~~~~~D.E~~~~GG~~~APsPL~Yf~aGiAfClmTql~~y~~~~~l~i~~~rleq~~~f~~~~~~~~~~~g~~   96 (143)
+T PHR62075.1_104   18 LEPNSGTFEIYSD.EGKAVGGTDTAPSPLAYFTAGIAFCLMTQLTRYASHRKLKIDSLRLEQRSNFRTSGPYGPSGAGKA   96 (143)
+Confidence            8999999999999 9     9999999999999999999999999999999999999999999999987     678999
+
+
+Q WP_132031010.1   95 FAYDTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        94 ~p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      ++|+|||+|+||||+|++++|+++|+++||||+++++++|++++|||
+T Consensus        97 ~~i~t~v~i~Sde~~e~i~~L~~~ae~~C~a~~tl~~avp~~~~v~~  143 (143)
+T PHR62075.1_104   97 DPIETHVFINSDEPEERIEELVKVAERTCYAHQTLRNAVPVETEVNV  143 (143)
+Confidence            99999999999999999999999999999999999999999999997
+
+
+No 3
+>GBC69866.1_80-182
+Probab=99.88  E-value=7.1e-30  Score=180.34  Aligned_cols=116  Identities=34%  Similarity=0.601  Sum_probs=111.7  Template_Neff=4.100
+
+Q WP_132031010.1   24 LNRAGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR------DGTG   92 (139)
+Q Consensus        24 fpea~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~------~t~a   91 (140)
+                      .+.+.+++|+|.+| |     |.++||+||+||+|||||||||||+|||++.|++|++|||+|+++|+.+      +..|
+T Consensus         2 ~~~~~~~~F~f~~D.e~~~~gg~~~APs~lay~aAGi~FCfMTQ~gRYA~i~k~~L~~yrivQd~~f~~~g~~~~~g~~g   80 (128)
+T GBC69866.1_80-    2 VHAQSGSGFRFLSD.ERPGWGGAGRAPSPLAYFAAGIAFCFMTQLGRYAHIAKLPLDSYRIVQDTHFSLGGASGGTGRAG   80 (128)
+Confidence            36788999999999 8     8999999999999999999999999999999999999999999999998      3788
+
+
+Q WP_132031010.1   93 EAFAYDTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV-  139 (139)
+Q Consensus        92 ~A~p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~  139 (140)
+                      .++||+|||||+|+|++|++++|++|+|||||+|++|+++++++++|+
+T Consensus        81 ~~~pV~Thv~l~s~e~~~~a~~l~~maerTCfLHA~~r~~~~~~~~~~  128 (128)
+T GBC69866.1_80-   81 SADPVETHVFLESPEDDEFARELVDMAERTCFLHATCRTALKTRVRIQ  128 (128)
+Confidence            999999999999999999999999999999999999999999999985
+
+
+No 4
+>PQO22612.1_9-154
+Probab=98.52  E-value=3.9e-13  Score=91.48  Aligned_cols=127  Identities=23%  Similarity=0.423  Sum_probs=115.1  Template_Neff=4.300
+
+Q WP_132031010.1   14 ATGLYHSR-----VALNRAGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMS   83 (139)
+Q Consensus        14 ~~Glv~t~-----Vgfpea~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S   82 (140)
+                      ++|.++..     -+.++..+.+|+|.+| |     |++.||+||+||.+|++.|+|||+..+|+.++++|++++|.-+.
+T Consensus        14 ~~g~mr~ea~~~~~~~~~~~~~~f~latD.Eg~~~GGdgtAP~PLayFv~Gl~~CLmtQir~fAkr~~I~v~~~~V~~r~   92 (155)
+T PQO22612.1_9-1   14 ATGKMRIEATLVVDVTFPARGESFELATD.EGPFHGGDGTAPPPLAYFVAGLAGCLMTQIRAFAKRLKIDVRDLKVTARG   92 (155)
+Confidence            45555554     4456666999999999 9     99999999999999999999999999999999999999999999
+
+
+Q WP_132031010.1   84 PWGVR-----DGTGEAFAYDTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        83 ~f~~~-----~t~a~A~p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      +|...     .-.+....++..+.|+||++.|.+++|++.|++.||++++++++++++.+++|
+T Consensus        93 ~w~~~~~~~~Py~~~p~~f~~di~i~s~~~~e~i~~Li~aA~kgCFve~tL~~~~~ithrl~i  155 (155)
+T PQO22612.1_9-1   93 HWDREQRGRGPYEGAPVGFEIDIDIESDAPAEDIKELIRAAKKGCFVEATLGRANPITHRLKI  155 (155)
+Confidence            99987     23677888999999999999999999999999999999999999999998875
+
+
+No 5
+>KPP83905.1_49-147
+Probab=97.95  E-value=6e-11  Score=78.85  Aligned_cols=114  Identities=19%  Similarity=0.262  Sum_probs=108.3  Template_Neff=3.100
+
+Q WP_132031010.1   22 VALNRAGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR------DG   90 (139)
+Q Consensus        22 Vgfpea~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~------~t   89 (140)
+                      |-..+..++.|+|.|| |     |.+.||-||+||++|+++|+|++|-..|+.+++.|+++.|.|+..|...      .+
+T Consensus        12 v~~~~~~g~~WRl~sD.EGpyLnGtD~APfPLAf~taGl~~~~m~~l~a~Ar~rgi~l~~l~v~ldn~Y~meGS~lrGtm   90 (137)
+T KPP83905.1_49-   12 VVSSSASGSVWRLASD.EGPYLNGTDLAPFPLAFFTAGLAGSYMSELRALARARGITLDDLSVDLDNRYSMEGSFLRGTM   90 (137)
+Confidence            4445678999999999 9     9999999999999999999999999999999999999999999999988      88
+
+
+Q WP_132031010.1   91 TGEAFAYDTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVT  136 (139)
+Q Consensus        90 ~a~A~p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt  135 (140)
+                      .|.+.|++..|.|++|.+++.+++|+..|...|++++.++.+.+++
+T Consensus        91 ~gga~p~~l~V~idsdas~~al~~Lv~~A~a~spa~~~lr~~~~~~  136 (137)
+T KPP83905.1_49-   91 TGGALPVELDVEIDSDASPEALRSLVADAVAASPANALLRGPLQVT  136 (137)
+Confidence            9999999999999999999999999999999999999999998864
+
+
+No 6
+>MBI2566328.1_6-131
+Probab=97.17  E-value=8.4e-09  Score=63.88  Aligned_cols=111  Identities=19%  Similarity=0.273  Sum_probs=98.0  Template_Neff=6.200
+
+Q WP_132031010.1   27 AGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHL  101 (139)
+Q Consensus        27 a~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHl  100 (140)
+                      +..++|++.+| .     |.+.||+|..+|+|+||=|...-...|++.+++++++++|++...+..  .......|..++
+T Consensus        19 a~~~g~~i~tD.qp~~~GG~g~aP~P~~LfLASlg~C~g~~v~~fc~~r~i~~eg~~v~v~~e~~~--~p~~~~~i~i~i   95 (134)
+T MBI2566328.1_6   19 AEFGGFTIETD.QPVEAGGEGSAPSPFELFLASLGTCAGIYVLSFCQRRGIPTEGLRVEVEAERDE--EPRRIGKIRIEI   95 (134)
+Confidence            35679999999 7     889999999999999999999999999999999999999999999986  468899999999
+
+
+Q WP_132031010.1  102 FMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       101 Fl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      .|.++-|++..+.|++ +.+.|.+|+++.++.+++++++|
+T Consensus        96 ~lp~~~pek~~~al~r-aa~~C~V~~tL~~~p~i~v~~~i  134 (134)
+T MBI2566328.1_6   96 HLPGGFPEKYREALIR-AAEQCPVKKTLENPPEFEVEVEI  134 (134)
+Confidence            9999555555555555 55999999999999999999876
+
+
+No 7
+>WP_089766601.1_36-169
+Probab=96.95  E-value=2.4e-08  Score=65.27  Aligned_cols=123  Identities=18%  Similarity=0.215  Sum_probs=114.5  Template_Neff=3.300
+
+Q WP_132031010.1   18 YHSRVALNRAGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR----   88 (139)
+Q Consensus        18 v~t~Vgfpea~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~----   87 (140)
+                      -.-+|......++.|++.|| |     |.+.||-||.||.||+..=+|..+.+.|..++++|++++++|++.|...    
+T Consensus        19 QKEAvV~e~~~G~aWRlvSD.EG~~L~GtDlAPfPLgFf~AGm~adl~~~i~~lA~~~gI~l~~l~l~l~N~Y~~~GSf~   97 (152)
+T WP_089766601.1   19 QKEAVVTEGADGSAWRLVSD.EGPYLNGTDLAPFPLGFFNAGMQADLMNRILALAEARGIALRDLRLELDNYYTMEGSFL   97 (152)
+Confidence            33455667779999999999 9     9999999999999999999999999999999999999999999999888    
+
+
+Q WP_132031010.1   89 --DGTGEAFAYDTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        88 --~t~a~A~p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                        .+.|++.|++.+|.++|+.+.+.+++|++.|.+.-++.+.+|.+++-+..+.|
+T Consensus        98 kGTg~G~A~p~~l~v~~~s~a~~~~l~~Lv~~Av~ASPa~a~lr~~l~~tF~l~~  152 (152)
+T WP_089766601.1   98 KGTGIGGAEPPRLEVEVDSDADAAALRQLVRDAVAASPAFALLRTPLDNTFALTV  152 (152)
+Confidence              89999999999999999999999999999999999999999999987766654
+
+
+No 8
+>WP_109558599.1_2-102
+Probab=96.89  E-value=3.2e-08  Score=62.33  Aligned_cols=112  Identities=19%  Similarity=0.268  Sum_probs=102.0  Template_Neff=5.100
+
+Q WP_132031010.1   27 AGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHL  101 (139)
+Q Consensus        27 a~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHl  100 (140)
+                      -..+++.|++| |     |.+.+|+|-.++.|++|=|-..=+.+||+..+.+|+++.|.....-.. ...+..+-|+-++
+T Consensus        21 i~~~~h~~~aD.EP~~~GG~d~GPtP~elLLasLaaCTaiTLrmYA~rKgw~l~~v~V~l~~~r~~-~~~~~~~~i~r~I   98 (137)
+T WP_109558599.1   21 ITWRNHTLIAD.EPESLGGQDLGPTPYELLLASLAACTAITLRMYADRKGWPLEEVEVELNHDRVH-AEPGKITRIEREI   98 (137)
+Confidence            45688999999 9     999999999999999999999999999999999999988876655432 2567889999999
+
+
+Q WP_132031010.1  102 FMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       101 Fl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      .++++-++|..++|++.| +.|++|.++...+.++++++|
+T Consensus        99 ~~~g~Ls~eQr~rLl~IA-~~CPVhktL~~~i~I~t~l~v  137 (137)
+T WP_109558599.1   99 SLSGDLTEEQRERLLEIA-DKCPVHKTLEGGIEIETELEV  137 (137)
+Confidence            999999999999999999 999999999999999999986
+
+
+No 9
+>WP_201517884.1_5-141
+Probab=96.77  E-value=5.5e-08  Score=60.18  Aligned_cols=113  Identities=15%  Similarity=0.236  Sum_probs=106.6  Template_Neff=6.500
+
+Q WP_132031010.1   28 GATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR-------DGTGEAF   95 (139)
+Q Consensus        28 ~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~-------~t~a~A~   94 (140)
+                      ..+.|+|..| |     |.+.+|+|+.|+++++|-|+...+..||+.++++|++++|+..+.++..       ...+++.
+T Consensus        28 ~~r~~~~~~D.eP~~~GG~d~gPtP~E~lLaAL~~C~~i~~~~~A~~~gi~l~~l~v~v~g~~D~rg~lG~~~~~~~gf~  106 (152)
+T WP_201517884.1   28 TVRDFTFIID.EPPALGGTDTGPNPVEYLLAALAGCLTVTYRMVAAERGIELDSLEVEVEGDLDLRGFLGLDEEVRPGFQ  106 (152)
+Confidence            3467999999 9     9999999999999999999999999999999999999999999999965       4556899
+
+
+Q WP_132031010.1   96 AYDTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        95 p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      .|..+|.|+||+++|++++|++.+++.|+++.+++++++++++++|
+T Consensus       107 ~I~~~v~v~s~~~~e~~~~l~~~v~~~CPV~~~l~~~~~v~~~~~v  152 (152)
+T WP_201517884.1  107 EIRVTVRIDSDASEEELEELLEEVEKRCPVSDNLRNPTPVEVELEV  152 (152)
+Confidence            9999999999999999999999999999999999999999999876
+
+
+No 10
+>MBI5449743.1_275-399
+Probab=96.48  E-value=1.8e-07  Score=57.11  Aligned_cols=112  Identities=20%  Similarity=0.312  Sum_probs=100.7  Template_Neff=6.400
+
+Q WP_132031010.1   28 GATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRD-GTGEAFAYDTHL  101 (139)
+Q Consensus        28 ~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~-t~a~A~p~dTHl  100 (140)
+                      ..++|.|.+| |     |.+.+|+|..|+.|++|-|...=+.+||+..+++|++++|.........+ ..+...-|+..|
+T Consensus        26 ~~g~h~~~~D.ep~~~GG~d~Gp~P~eLL~aaLaaCt~~TlrmyA~rkg~~l~~v~V~v~~~~~~~~d~~~~~~~i~~~I  104 (143)
+T MBI5449743.1_2   26 TAGGHTLIAD.EPESVGGTDTGPSPYELLLAALGACTAMTLRMYADRKGWPLEEVEVEVSHERDHAEDKGGKIDRIEREI  104 (143)
+Confidence            5578999999 9     99999999999999999999999999999999999999999988887531 245688999999
+
+
+Q WP_132031010.1  102 FMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       101 Fl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      .|.++-+++..++|++. .+.|++|.++.++.+++++|+|
+T Consensus       105 ~l~g~L~~eqr~rL~~i-a~~CPV~k~L~~~~~i~t~v~i  143 (143)
+T MBI5449743.1_2  105 TLEGDLDDEQRARLLEI-ADKCPVHKTLEGPIEIETELEV  143 (143)
+Confidence            99999999999999555 5679999999999999999876
+
+
+No 11
+>WP_092625006.1_54-171
+Probab=96.47  E-value=1.8e-07  Score=59.04  Aligned_cols=111  Identities=20%  Similarity=0.284  Sum_probs=105.4  Template_Neff=5.500
+
+Q WP_132031010.1   29 ATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR------DGTGEAFAY   97 (139)
+Q Consensus        29 adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~------~t~a~A~p~   96 (140)
+                      .+.|.|.+| |     |.+.||+||.|+++|+++|+...+.++|+.++++|++++++..+.++..      +..+++..|
+T Consensus        35 ~~~~~f~~D.ep~~~GG~d~aPsPleY~L~al~gC~~V~~~~vA~~~gi~l~~l~~~~~g~lD~rG~~g~~~v~p~fq~v  113 (159)
+T WP_092625006.1   35 VGSFTFTTD.EPPALGGTDSAPSPLEYLLAALAGCLQVTIERVAKELGIELDSLEVEVRGTLDPRGLVGGADVPPHFQSV  113 (159)
+Confidence            447799999 9     9999999999999999999999999999999999999999999999888      677889999
+
+
+Q WP_132031010.1   98 DTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV-  139 (139)
+Q Consensus        97 dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~  139 (140)
+                      ...|.|+++++++++++|++.+++.|+++++++.+++++++++
+T Consensus       114 ~~~v~V~t~~~~e~~~~l~~e~erRCPv~nL~~~avgv~i~~~  156 (159)
+T WP_092625006.1  114 TLTVRVETDASDEQLEELVEEVERRCPVFNLFRDAVGVEIELE  156 (159)
+Confidence            9999999999999999999999999999999999988888776
+
+
+No 12
+>MBM3255383.1_7-131
+Probab=96.24  E-value=4e-07  Score=55.63  Aligned_cols=113  Identities=13%  Similarity=0.277  Sum_probs=99.0  Template_Neff=5.400
+
+Q WP_132031010.1   25 NRAGATVFAFTTDeTASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLFMQ  104 (139)
+Q Consensus        25 pea~adrw~~~tD.~a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl~  103 (140)
+                      +.+..++++|..| ..++.+|+|...|+|+++-|.-..+..|++..+++++.++|+.+..++..  ...+..|+..+.+.
+T Consensus        17 f~a~~~~~~~~id.~~g~~G~sP~~~LlASLG~C~g~yvr~yl~~~~i~~~~f~I~v~a~~~~e--~~r~~~I~V~I~l~   93 (130)
+T MBM3255383.1_7   17 FKATTRGYEFVID.RKGEEGMSPGDLLLASLGSCIGVYVRKYLEEQGIPFDGFTIEVDAELDKE--PPRFTEIDVKIDLK   93 (130)
+Confidence            4567778999999 73449999999999999999999999999999999999999999999974  44899999999999
+
+
+Q WP_132031010.1  105 G-EADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       104 G-~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      + +.++++-+.|++.+ +.||+|+|++...+|.++|+|
+T Consensus        94 ~~~l~e~~k~alL~~~-~~CpVhnTLk~~p~I~isi~~  130 (130)
+T MBM3255383.1_7   94 GAKLDERQKKALLEFA-KNCPVHNTLKGNPEIEISITI  130 (130)
+Confidence            9 66666666666655 679999999999999999875
+
+
+No 13
+>PLX67796.1_11-130
+Probab=96.19  E-value=4.7e-07  Score=56.47  Aligned_cols=110  Identities=22%  Similarity=0.310  Sum_probs=98.3  Template_Neff=4.300
+
+Q WP_132031010.1   27 AGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHL  101 (139)
+Q Consensus        27 a~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHl  100 (140)
+                      .....+++..| +     |.+.+|-|-.||+++++=|||+-|--+++.++++|.++++...+....  .+..+..|+  +
+T Consensus        18 ~~~r~h~v~~D.rp~~kGG~d~GpMggE~lL~aLGgCfmsnL~aaa~aR~~~v~~v~~~V~g~~~~--~p~Rf~~I~--l   92 (133)
+T PLX67796.1_11-   18 ATARSHSVVID.RPEAKGGEDRGPMGGELLLAALGGCFMSNLLAAARAREADVSDVRVTVTGTLDG--APPRFSAIT--L   92 (133)
+Confidence            34567889999 8     999999999999999999999999999999999999999999998875  445555555  4
+
+
+Q WP_132031010.1  102 FMQGEA-DDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       101 Fl~G~~-dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      .|+++. |++.+++|+.+|||.|+++++++.+++++++++|
+T Consensus        93 ~V~a~~~d~~~l~klV~iAERgCiV~NTLk~~v~l~v~v~~  133 (133)
+T PLX67796.1_11-   93 TVEADAADEELLEKLVTIAERGCIVANTLKDAVELEVTVEI  133 (133)
+Confidence            588888 9999999999999999999999999999999875
+
+
+No 14
+>HEB31232.1_17-118
+Probab=96.04  E-value=7.3e-07  Score=55.10  Aligned_cols=111  Identities=19%  Similarity=0.292  Sum_probs=99.0  Template_Neff=4.600
+
+Q WP_132031010.1   27 AGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHL  101 (139)
+Q Consensus        27 a~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHl  100 (140)
+                      +.-++|.+.+| -     |++.||+|..||+|+||-|--.-..+|.+.++++.+.++|.|...|+.  .......|+.+|
+T Consensus        17 A~~~gf~I~TD.Qp~~~GG~gsAP~PfdLFLASlatCaG~yvl~Fc~~R~i~t~gi~l~~~~~~d~--~~~~i~~i~i~I   93 (132)
+T HEB31232.1_17-   17 AHFGGFTIKTD.QPVESGGEGSAPSPFDLFLASIGTCAGIYVLSFCQQRGIPTEGIRLTQRMEFDP--ETHMITKIEIEI   93 (132)
+Confidence            45678999999 7     899999999999999999999999999999999999999999999996  456788999999
+
+
+Q WP_132031010.1  102 FMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       101 Fl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      .+..+-|+.-.+.|++ |.+.|.+...+.++-+++++++|
+T Consensus        94 ~lP~~FPeKY~~al~r-a~~~C~VKk~i~~pPef~v~~~v  132 (132)
+T HEB31232.1_17-   94 QLPPDFPEKYREAIIR-AADLCAVKKHLQNPPEFEVEVKV  132 (132)
+Confidence            9988887776666665 56789999999999999998876
+
+
+No 15
+>WP_056176361.1_5-133
+Probab=95.92  E-value=1e-06  Score=55.03  Aligned_cols=105  Identities=19%  Similarity=0.376  Sum_probs=90.7  Template_Neff=3.200
+
+Q WP_132031010.1   29 ATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLFM  103 (139)
+Q Consensus        29 adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl  102 (140)
+                      .+...|.+| -     |++.+|+|-.||-+.+|-|----+..||+..+.+|++++|...-.     ..++...+.-.+.|
+T Consensus        21 ~g~~~~~aD.l~~~~GG~g~~P~PHdlLDaALaaCT~LTLqlYAkRK~~pL~~v~V~V~~e-----e~~g~Y~l~r~i~l   94 (130)
+T WP_056176361.1   21 NGTAHWPAD.LDAEAGGDGTGPSPHDLLDAALAACTALTLQLYAKRKQWPLEGVHVTVTHE-----ERDGVYRLKRRIQL   94 (130)
+Confidence            445556666 4     899999999999999999998889999999999999999987762     34567778889999
+
+
+Q WP_132031010.1  104 QGEADDETFETLQRIAAATCYLHRSMETETPVTLGV-  139 (139)
+Q Consensus       103 ~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~  139 (140)
+                      +++-+++..++|+++| +.|+.|.++.....|.++++
+T Consensus        95 ~G~L~~~qradLlrVA-nkCPVHK~Ls~~i~I~T~l~  130 (130)
+T WP_056176361.1   95 HGDLDPAQRADLLRVA-NKCPVHKTLSGQIEITTELE  130 (130)
+Confidence            9999999999999987 57999999999888887764
+
+
+No 16
+>WP_055408569.1_10-135
+Probab=95.69  E-value=1.9e-06  Score=51.81  Aligned_cols=110  Identities=18%  Similarity=0.264  Sum_probs=101.5  Template_Neff=6.100
+
+Q WP_132031010.1   28 GATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLF  102 (139)
+Q Consensus        28 ~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlF  101 (140)
+                      ..++++|..| +     |.+.+|+|..+|.|++|-|..--..+|++.++++++.+++.....+..  .......|...|.
+T Consensus        23 ~~r~H~~~vD.qP~~~GG~D~gptP~ELflAsLasC~~~~a~~~~~~~~i~~~gl~v~~~~~~~~--~p~Rv~~I~~~v~   99 (139)
+T WP_055408569.1   23 TVRGHRLVVD.QPPEAGGEDTGPTPVELFVASLASCVAFYARRYLRRHGLPLEGLRVEAEFEMAE--RPARVGRIRVRVH   99 (139)
+Confidence            5677899999 8     899999999999999999999999999999999999999987777764  6788899999999
+
+
+Q WP_132031010.1  103 MQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       102 l~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      +..+.+++..+.|+ .+.+.|++|++++.+-+++++++|
+T Consensus       100 ~p~~~~~~~~~~l~-~v~~~C~VhntL~~~p~i~i~v~~  137 (139)
+T WP_055408569.1  100 LPAGLPEERREALL-AVARHCPVHNTLRHPPEVEIEVEV  137 (139)
+Confidence            99999999999999 899999999999999998888875
+
+
+No 17
+>MBC8067343.1_11-126
+Probab=95.64  E-value=2.1e-06  Score=53.11  Aligned_cols=109  Identities=20%  Similarity=0.282  Sum_probs=96.7  Template_Neff=4.100
+
+Q WP_132031010.1   29 ATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLFM  103 (139)
+Q Consensus        29 adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl  102 (140)
+                      .+.++|++| +     |.+.||+|-.||-+.+|=|--.-+.+||+..+++|++++++..-.=+.  ...+.-.++..+.+
+T Consensus        20 i~~h~l~aD.~p~~~GG~dsaP~PHdl~daALaaCkAiT~~mYA~rk~ipLe~V~v~V~rD~s~--Er~G~y~l~~~l~l   96 (134)
+T MBC8067343.1_1   20 IGGHELFAD.EPVALGGEDSAPDPHDLFDAALAACKAITLRMYARRKGIPLEDVEVEVERDDSE--ERQGVYRLEVTLTL   96 (134)
+Confidence            347899999 8     999999999999999999999999999999999999999998855332  33457889999999
+
+
+Q WP_132031010.1  104 QGEADDETFETLQRIAAATCYLHRSMETE-TPVTLGV--  139 (139)
+Q Consensus       103 ~G~~dDe~t~~L~~~AAntCYaHRal~~e-vevt~~v~~  140 (140)
+                      .++-+++.-++|+++|+ .|+.|..+.+. +.|+++++|
+T Consensus        97 ~G~Ltd~qR~~Ll~iA~-kCPVHKlmt~~~v~I~T~~~~  134 (134)
+T MBC8067343.1_1   97 HGDLTDEQRQRLLEIAD-KCPVHKLMTQVTVEITTNLEV  134 (134)
+Confidence            99999999999999986 59999999999 888888776
+
+
+No 18
+>WP_121626582.1_99-211
+Probab=95.58  E-value=2.4e-06  Score=52.68  Aligned_cols=110  Identities=17%  Similarity=0.235  Sum_probs=104.5  Template_Neff=2.100
+
+Q WP_132031010.1   31 VFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR-----DGTGEAFAYDTH  100 (139)
+Q Consensus        31 rw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~-----~t~a~A~p~dTH   99 (140)
+                      +|.+++| |     -...||+||+|+++|||--++||+.|-++.+++.+++++|+....|+..     .++|..|.+.|.
+T Consensus         1 gw~~~ad.eg~aeg~~~~~PnPLSY~taGiasnL~Tqv~ra~kv~~l~v~~~KVEv~~~Frw~~~~s~~~aGf~D~~~tN   79 (120)
+T WP_121626582.1    1 GWQLIAD.EGAAEGHNQFAPNPLSYYTAGIASNLHTQVERAAKVMGLDVDNIKVEVLNKFRWNDMMSPKWAGFTDKTTTN   79 (120)
+Confidence            5889999 9     3457999999999999999999999999999999999999999999988     889999999999
+
+
+Q WP_132031010.1  101 LFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       100 lFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      ++|+|+|+++++++|.+||-+.--+...++++++++..+.|
+T Consensus        80 IiIeS~e~~~ki~elk~mAl~aW~aGe~LaN~T~id~~l~~  120 (120)
+T WP_121626582.1   80 IIIESNEPAEKIQELKNMALQAWAAGEGLANETPIDPQLVV  120 (120)
+Confidence            99999999999999999999999999999999999988765
+
+
+No 19
+>MBN9566681.1_12-109
+Probab=95.26  E-value=4.6e-06  Score=51.19  Aligned_cols=113  Identities=17%  Similarity=0.276  Sum_probs=100.0  Template_Neff=4.400
+
+Q WP_132031010.1   27 AGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHL  101 (139)
+Q Consensus        27 a~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHl  100 (140)
+                      ..+++++|..| |     |.+.+|+|..++.+|+|=|-..-+.+||+..+.+|+++.|.-...-...+..|..+.|+-+|
+T Consensus        20 i~ag~H~~~aD.ep~~~GG~d~Gp~P~ELlL~aL~ACtaiTl~mYAr~KgwpL~~v~V~~e~~~~~~~~~g~~~~I~r~i   98 (137)
+T MBN9566681.1_1   20 IDAGGHSWVAD.EPVELGGDDTGPSPYELLLSALGACTAITLRMYARRKGWPLDDVSVRLEHERDEAGKRGGIDRIERRI   98 (137)
+Confidence            46788999999 9     99999999999999999999999999999999999999887654443213458999999999
+
+
+Q WP_132031010.1  102 FMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       101 Fl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      .++++-+++.-++|++ -.+.|++|.++...++|..++.|
+T Consensus        99 ~~~G~ld~~QR~rLl~-Ia~~CpV~ktl~~~i~i~~~l~~  137 (137)
+T MBN9566681.1_1   99 TLEGELDDEQRQRLLE-IAERCPVHKTLSSGIAIETQLHI  137 (137)
+Confidence            9999999999999995 45679999999999999998765
+
+
+No 20
+>PKL77782.1_3-133
+Probab=95.15  E-value=5.6e-06  Score=50.15  Aligned_cols=108  Identities=13%  Similarity=0.165  Sum_probs=94.4  Template_Neff=5.200
+
+Q WP_132031010.1   30 TVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLFMQ  104 (139)
+Q Consensus        30 drw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl~  103 (140)
+                      ++-.|..| .     |.+.++||-..+++++|-|.||-++.+|+..+++|...+++..-.....  ......++.++.+.
+T Consensus        27 Sg~~i~TD.AP~Dn~G~Ge~FSPTDL~AasL~sC~lT~mgi~A~~~gid~~g~~~~V~K~M~~~--pRRI~~i~i~i~~p  103 (139)
+T PKL77782.1_3-1   27 SGTKIITD.APVDNHGKGEAFSPTDLVATALGSCMLTIMGIAAERHGIDLEGTTAEVEKIMASD--PRRIGKIEVTIHFP  103 (139)
+Confidence            45567788 6     9999999999999999999999999999999999999999999888863  47888899999998
+
+
+Q WP_132031010.1  105 GEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       104 G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      .+- .++.++.++.+.++|++|..+.-.+++.++.+|
+T Consensus       104 ~~~-~~~~r~~Le~aa~~CPV~~SL~pdi~~~~~f~~  139 (139)
+T PKL77782.1_3-1  104 ANL-SEKQRKILERAAKTCPVAKSLHPDIEQEITFEI  139 (139)
+Confidence            855 555666667777999999999999999998876
+
+
+No 21
+>WP_204837643.1_3-149
+Probab=95.04  E-value=6.8e-06  Score=50.90  Aligned_cols=110  Identities=19%  Similarity=0.305  Sum_probs=101.0  Template_Neff=3.500
+
+Q WP_132031010.1   28 GATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLF  102 (139)
+Q Consensus        28 ~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlF  101 (140)
+                      ..++++|..| |     |.+.+|+|...++|++|=|--.-+..||...+++|++++|+..-.....  .+..+.++-+|.
+T Consensus        25 ~~g~h~~~~D.EP~~~GG~g~GP~P~dLl~AaLa~CTamTvr~yAr~~gwpl~~V~V~V~h~~~~~--~~~~d~F~r~v~  101 (139)
+T WP_204837643.1   25 EVGGHSLVGD.EPEAFGGGGLGPNPFDLLAAALAECTAMTVRWYARQKGWPLEHVEVRVTHEKKAG--SGPVDVFERTVT  101 (139)
+Confidence            4556899999 9     9999999999999999999999999999999999999999988877753  688999999999
+
+
+Q WP_132031010.1  103 MQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       102 l~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      |.++-++|.-++|+++|+ .|++|.+|.....+.++++|
+T Consensus       102 l~G~Lt~dQr~rL~~iA~-kCPVhrtL~g~~~I~T~~~~  139 (139)
+T WP_204837643.1  102 LVGALTEDQRARLLDIAA-KCPVHRTLEGGITIETSVEV  139 (139)
+Confidence            999999999999999886 59999999999999998875
+
+
+No 22
+>OLE71304.1_31-168
+Probab=94.96  E-value=7.7e-06  Score=51.02  Aligned_cols=113  Identities=17%  Similarity=0.292  Sum_probs=106.6  Template_Neff=3.100
+
+Q WP_132031010.1   26 RAGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR------DGTGEA   94 (139)
+Q Consensus        26 ea~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~------~t~a~A   93 (140)
+                      +..-..|++.+| |     |.+++|+|+.||++++|||+..|+.|.|..++|+|+|+.+..+++|+..      +....+
+T Consensus        20 eakiR~F~v~sD.Ep~s~~Gtg~g~sP~e~flsavGfc~~~~~~~~a~~~~l~iDSlet~V~G~~D~~g~~~i~~~~p~~   98 (144)
+T OLE71304.1_31-   20 EAKIRDFEVISD.EPESSGGTGKGPSPMEFFLSAVGFCENVTFARVAEVNGLTIDSLETSVRGHWDRRGLLDIDGINPSF   98 (144)
+Confidence            466789999999 9     9999999999999999999999999999999999999999999999987      567788
+
+
+Q WP_132031010.1   95 FAYDTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV  139 (139)
+Q Consensus        94 ~p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v  138 (140)
+                      ..|..++.|.|++++|+++++++++++.|++|++++.+++|.-+.
+T Consensus        99 ~~itve~~v~s~~~~eK~~ev~~~t~~rcPvhaTlsrav~m~~~l  143 (144)
+T OLE71304.1_31-   99 SDITVEVRVKSKSPPEKVVEVARKTHRRCPVHATLSRAVRMTFQL  143 (144)
+Confidence            899999999999999999999999999999999999999987654
+
+
+No 23
+>MBI3378352.1_45-172
+Probab=94.84  E-value=9.4e-06  Score=50.20  Aligned_cols=134  Identities=15%  Similarity=0.227  Sum_probs=118.8  Template_Neff=4.300
+
+Q WP_132031010.1    4 KVNGEGSRDFATGLYHSRVALNRAGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVR   78 (139)
+Q Consensus         4 hV~a~G~~Df~~Glv~t~Vgfpea~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~R   77 (140)
+                      +|+++-..|......++.+-+   .++...|.+| .     |.+.+|+|+.|...|+|=||..-+.--|.+.+++|++++
+T Consensus         7 ~v~~~W~f~eg~pQF~a~i~~---~~G~~~leaD.~P~flGG~G~~P~P~qYCL~GlasCfaaTFa~~AA~~GI~L~~Lk   82 (150)
+T MBI3378352.1_4    7 KVEGTWNFDEGKPQFRAEIKY---EKGKVTLEAD.QPPFLGGGGTAPGPMQYCLFGLASCFAATFATVAAMEGIELKKLK   82 (150)
+Confidence            455566666666777888877   5568899999 8     999999999999999999999999999999999999998
+
+
+Q WP_132031010.1   79 LVQMSPWGVR-----DGTGEAFAYDTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        78 LvQ~S~f~~~-----~t~a~A~p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      |.....-+.+     +..+-.+.|...|.++||+|+++++++.+.|.+.|++--++.+++|++++|+|
+T Consensus        83 v~~e~~vd~s~~~gl~d~Pive~v~~~l~V~sda~~e~l~~l~~lA~eRCPavycltnpIpl~~~l~v  150 (150)
+T MBI3378352.1_4   83 VRAEADVDFSKVFGLSDEPIVEGVRITLEVESDASDEKLEELKELAEERCPAVYCLTNPIPLTTELEV  150 (150)
+Confidence            8777666555     66677888999999999999999999999999999999999999999999986
+
+
+No 24
+>WP_184364429.1_63-184
+Probab=94.79  E-value=1e-05  Score=49.48  Aligned_cols=114  Identities=18%  Similarity=0.297  Sum_probs=107.5  Template_Neff=4.900
+
+Q WP_132031010.1   27 AGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR------DGTGEAF   95 (139)
+Q Consensus        27 a~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~------~t~a~A~   94 (140)
+                      ...+.|+|..| |     |.+.+|+|..|+++++|=||+.-+.-+|+.++++|.+++|...+.++..      +..+++.
+T Consensus        22 v~~r~f~~~vD.eP~~~gGtD~GP~P~E~LLaalagC~~v~~~~~A~k~gi~l~~l~v~v~G~~D~~g~lg~~~v~~gf~  100 (148)
+T WP_184364429.1   22 VEARDFELVVD.EPASLGGTDEGPNPTELLLAALAGCFTVALAWVARKRGIELEDLEVDVEGDYDGRGFLGLADVRPGFQ  100 (148)
+Confidence            35689999999 9     9999999999999999999999999999999999999999999999876      3466899
+
+
+Q WP_132031010.1   96 AYDTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        95 p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      .|..++.+++|.++|.+++|++.|++.||+.+++++++++++++++
+T Consensus       101 ~I~~~v~v~~~a~~e~l~~L~~~ae~~cpV~ntL~~~~~v~v~~~~  146 (148)
+T WP_184364429.1  101 EIRVTVYVDSDADEEQLEELVEAAERRCPVTNTLRRPVPVEVTIEW  146 (148)
+Confidence            9999999999999999999999999999999999999999998875
+
+
+No 25
+>WP_190141974.1_6-141
+Probab=94.32  E-value=1.9e-05  Score=46.67  Aligned_cols=101  Identities=21%  Similarity=0.295  Sum_probs=87.6  Template_Neff=6.000
+
+Q WP_132031010.1   40 ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPI-RGVRLVQMSPWGVRDGTGEAFAYDTHLFMQGEADDETFETLQRI  118 (139)
+Q Consensus        39 a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi-~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl~G~~dDe~t~~L~~~  117 (140)
+                      |.+.+++|-.+|++|.+=||..=+..+|+..|+++ .+.+|.........+..+-.-.++.+|.|.+ -++|++++|++.
+T Consensus        41 G~g~gtNPEqLFAagyaaCF~~Al~~~a~~~~~~~~~~~~V~a~v~l~~~~~~~~~l~v~l~v~i~g-~~~~~a~~l~~~  119 (142)
+T WP_190141974.1   41 GPGGGTNPEQLFAAGYAACFLSALKLVARQQKVKLPEDSSVTAEVSLGKDEDGGFGLAVELEVSLPG-VDQETAEELVEK  119 (142)
+Confidence            55778999999999999999999999999999999 7788877776665532355557788888865 488999999999
+
+
+Q WP_132031010.1  119 AAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       118 AAntCYaHRal~~evevt~~v~~  140 (140)
+                      |.+.|+-..+++..++++++|+|
+T Consensus       120 Ah~~CPySkA~rgni~v~~~v~v  142 (142)
+T WP_190141974.1  120 AHQVCPYSKATRGNIDVTLTVEV  142 (142)
+Confidence            99999999999999999999987
+
+
+No 26
+>MBM4263653.1_46-167
+Probab=94.29  E-value=2e-05  Score=47.77  Aligned_cols=107  Identities=20%  Similarity=0.351  Sum_probs=99.3  Template_Neff=1.700
+
+Q WP_132031010.1   29 ATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR------DGTGEAFAY   97 (139)
+Q Consensus        29 adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~------~t~a~A~p~   96 (140)
+                      -+.+.++|| +     -.++.||||.||+|.|+||+++|+.|+|...++.|++.++.-+..|+.+      +.+..+..+
+T Consensus         5 ~~~~tv~cd.~e~f~~e~gk~ps~lQ~fiASiGFCMfSql~rfAar~~V~I~d~EmdLrmtYDlsgkf~~~D~s~aa~gl   83 (122)
+T MBM4263653.1_4    5 VSDYTVYCD.DEPFQSETGKRPSPLQYFIASIGFCMFSQLARFAARAGVAIDDAEMDLRMTYDLSGKFRSGDFSSAAQGL   83 (122)
+Confidence            456889999 7     7889999999999999999999999999999999999999999999887      667778889
+
+
+Q WP_132031010.1   98 DTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVT  136 (139)
+Q Consensus        97 dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt  135 (140)
+                      +..+.|+|..+.|++-++.+.+.+.|---+.+|+.+|+.
+T Consensus        84 ~y~frIks~ap~e~vi~vaqLad~gCHTVnsmRkR~Pvs  122 (122)
+T MBM4263653.1_4   84 SYTFRIKSAAPAERVIRVAQLADHGCHTVNSMRKRMPVS  122 (122)
+Confidence            999999999999999999999999999999999998874
+
+
+No 27
+>EMA47281.1_10-134
+Probab=93.29  E-value=5.3e-05  Score=45.52  Aligned_cols=109  Identities=17%  Similarity=0.269  Sum_probs=100.7  Template_Neff=3.300
+
+Q WP_132031010.1   28 GATVFAFTTDeTASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKL-PIRGVRLVQMSPWGVRDGTGEAFAYDTHLFMQGE  106 (139)
+Q Consensus        28 ~adrw~~~tD.~a~~~APspL~yfsigtAFCYhTQLcRYvdvrrl-Pi~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl~G~  105 (140)
+                      .-+.|++-.| -++..+|+|+.||.+..|-||..-|.-=|++++. +|..+.|.....-.   -.+....|.-+|.++.+
+T Consensus        18 ~igdfe~~iD.atge~~P~P~e~l~a~yasC~~~A~rv~A~~r~~~dlG~Ievda~a~~d---ddd~lesI~f~v~Vead   93 (127)
+T EMA47281.1_10-   18 RIGDFELTID.ATGEDGPDPVEVLLADYASCYVPALRVGAQQRDVDDLGRIEVDAEADLD---DDDDLESIRFDVHVEAD   93 (127)
+Confidence            3478999999 8777999999999999999999999999999999 99999999887775   35789999999999999
+
+
+Q WP_132031010.1  107 ADDETFETLQRIAAATCYLHRSMETETPVTLGV-  139 (139)
+Q Consensus       106 ~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~  139 (140)
+                      -+++.++++++.|++.|-+|.+||..++..++++
+T Consensus        94 ~dd~~~~~iV~~ae~~CHVh~aLre~L~advtvE  127 (127)
+T EMA47281.1_10-   94 LDDETLERIVERAEDICHVHDALREELHADVTVE  127 (127)
+Confidence            9999999999999999999999999999998875
+
+
+No 28
+>NOQ91158.1_27-117
+Probab=92.87  E-value=7.3e-05  Score=43.39  Aligned_cols=99  Identities=12%  Similarity=0.216  Sum_probs=86.6  Template_Neff=2.900
+
+Q WP_132031010.1   40 ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLFMQGEADDETFETLQRIA  119 (139)
+Q Consensus        39 a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl~G~~dDe~t~~L~~~A  118 (140)
+                      |.+.||||..||+|.+|.|----.-.|.+.++++++.++|.|...++.  ...-.+-++.+|.|-++-|+.-- +-++.|
+T Consensus         2 ~~~~~pSPf~~FLAS~g~Cag~Yv~~f~q~R~ip~~~v~i~q~~~~d~--~~~m~~~i~I~V~LP~~fp~kyk-~ai~~a   78 (100)
+T NOQ91158.1_27-    2 GANSAPSPFDLFLASIGMCAGIYVRSFCQQRGIPTENVRINQRMEYDP--ETRMVENIEINVELPSDFPEKYK-KAIKRA   78 (100)
+Confidence            678899999999999999999888999999999999999999999996  67788999999999888876654 445566
+
+
+Q WP_132031010.1  120 AATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       119 AntCYaHRal~~evevt~~v~~  140 (140)
+                      -..|.++..+.++-+..++.++
+T Consensus        79 vd~C~VKkhl~~pPef~i~t~~  100 (100)
+T NOQ91158.1_27-   79 VDQCLVKKHLVTPPEFAIQTNI  100 (100)
+Confidence            7889999999999888877653
+
+
+No 29
+>HBZ34859.1_2-102
+Probab=92.83  E-value=7.5e-05  Score=44.12  Aligned_cols=108  Identities=17%  Similarity=0.224  Sum_probs=92.4  Template_Neff=4.900
+
+Q WP_132031010.1   30 TVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLFMQ  104 (139)
+Q Consensus        30 drw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl~  103 (140)
+                      ++-.+..| -     |.+.++||-.+|++++|=|.||-++.||+.++++|+..+++..-....  .......|..++.+.
+T Consensus        23 s~~~v~tD.aP~~~~G~Ge~fSPtDLlatSLasCmlt~Mgi~A~~~~~dl~G~~~~V~k~m~~--~PrRI~~I~i~~~lp   99 (135)
+T HBZ34859.1_2-1   23 SGQTVATD.APKDNGGKGEAFSPTDLLATSLASCMLTIMGIYAERMGIDLSGATAEVEKEMAS--NPRRIGEIKITFHLP   99 (135)
+Confidence            34457777 5     999999999999999999999999999999999999999999777765  357888999999998
+
+
+Q WP_132031010.1  105 GEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       104 G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      .+- .|+.++.++.|..+|+++..+.-.++.++++++
+T Consensus       100 ~~~-~~~~r~~LE~aa~~CPV~~SLhPdi~~~v~f~~  135 (135)
+T HBZ34859.1_2-1  100 QNY-TEKQRKILERAAETCPVKRSLHPDIKQTVTFEI  135 (135)
+Confidence            444 456777777788999999999999888888764
+
+
+No 30
+>MBJ7334753.1_12-145
+Probab=92.72  E-value=8.1e-05  Score=44.22  Aligned_cols=112  Identities=16%  Similarity=0.196  Sum_probs=107.0  Template_Neff=5.400
+
+Q WP_132031010.1   29 ATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR------DGTGEAFAY   97 (139)
+Q Consensus        29 adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~------~t~a~A~p~   96 (140)
+                      .+.+.|..| |     |.+.+|+||.|++++++-|..-++.++|+.++++|+++.++..+.|+..      +..+.+..|
+T Consensus        28 ~~~h~i~iD.EP~~~GGtd~gp~Ple~lLaaL~gC~~V~~~~vAk~~g~~l~~i~~~v~G~lD~rG~~G~~~v~~~f~~V  106 (151)
+T MBJ7334753.1_1   28 ARGHPIIID.EPESLGGTDKGPNPLEYLLAALAGCENVIANMVAKEMGFDLQGIEFEVEGELDPRGFMGDEDVRPYFQKV  106 (151)
+Confidence            368999999 9     9999999999999999999999999999999999999999999999998      567889999
+
+
+Q WP_132031010.1   98 DTHLFMQGEADDETFETLQRIAAATCYLHRSMETE-TPVTLGV--  139 (139)
+Q Consensus        97 dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~e-vevt~~v~~  140 (140)
+                      +..+.|++||++|++++|.+..++.|+++++++++ ++++++.++
+T Consensus       107 ~~~v~v~T~es~Eri~~L~~~v~~rCPV~~~l~~agv~i~~~w~~  151 (151)
+T MBJ7334753.1_1  107 TLTVRVKTDESDERIEELKEKVERRCPVYNLLKAAGVPIESSWEI  151 (151)
+Confidence            99999999999999999999999999999999999 999988765
+
+
+No 31
+>TRO49093.1_32-127
+Probab=92.72  E-value=8.1e-05  Score=43.65  Aligned_cols=98  Identities=13%  Similarity=0.218  Sum_probs=93.5  Template_Neff=3.000
+
+Q WP_132031010.1   40 ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLFMQGEADDETFETLQRIA  119 (139)
+Q Consensus        39 a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl~G~~dDe~t~~L~~~A  118 (140)
+                      |...+|+|-..+++|++.|+-..+.-|..+.++++++++|+..+.++.  ..+...+++..|-+++|-|+|+...++..|
+T Consensus        12 ~~~~g~~~~dLMl~gLG~Ctg~ti~~Yl~~Kgl~~e~l~ieV~~~~~e--k~~ry~~f~i~i~~~~dlseEqr~~ll~ia   89 (109)
+T TRO49093.1_32-   12 GEYVGMRAGDLMLAGLGYCTGITIQAYLRRKGLEIENLEIEVAGKKDE--KENRYGEFDINISFKDDLSEEQRKRLLEIA   89 (109)
+Confidence            788999999999999999999999999999999999999999999996  678899999999999999999999999999
+
+
+Q WP_132031010.1  120 AATCYLHRSMETETPVTLGV-  139 (139)
+Q Consensus       119 AntCYaHRal~~evevt~~v~  139 (140)
+                      .+ |++|+++++..+++++++
+T Consensus        90 k~-C~V~NT~e~~p~I~ie~~  109 (109)
+T TRO49093.1_32-   90 KR-CTVGNTMEKAPEIKIEIK  109 (109)
+Confidence            99 999999999999988763
+
+
+No 32
+>NLY97658.1_4-139
+Probab=91.59  E-value=0.00016  Score=41.67  Aligned_cols=119  Identities=16%  Similarity=0.223  Sum_probs=108.7  Template_Neff=6.100
+
+Q WP_132031010.1   21 RVALNRAGATVFAFTTDeT----AS-GRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAF   95 (139)
+Q Consensus        21 ~Vgfpea~adrw~~~tD.~----a~-~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~   94 (140)
+                      ..+|....+++..+..| -    |+ +++|.|+.||++.+|=|..+-+..++..++++|++++|...+.-.. ...-.+.
+T Consensus        18 ~~~~~a~~~~~~~i~~D.~p~~~Gg~g~g~~P~ELfL~Sl~~C~~~t~l~~lrr~~~~i~~l~v~a~g~r~~-~~p~~f~   95 (143)
+T NLY97658.1_4-1   18 KTGFTAKTRGNHEISID.YPPPFGGSGRGPCPLELFLASLAGCLGTTFLYFLRRMGKTISSLEVEAEGTRRE-EHPTVFT   95 (143)
+Confidence            45666666788999999 7    66 9999999999999999999999999999999999999999998873 5778899
+
+
+Q WP_132031010.1   96 AYDTHLFMQG-EADDETFETLQRIAAA-TCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        95 p~dTHlFl~G-~~dDe~t~~L~~~AAn-tCYaHRal~~evevt~~v~~  140 (140)
+                      .|..++.|.| +.+++.+++.++.|+. -|++.+.++..+|++++++|
+T Consensus        96 ~I~l~~~i~~~~~~~~~~~k~~~lae~~yCpV~~mlk~~v~I~~~~~I  143 (143)
+T NLY97658.1_4-1   96 KIHLEITIKSPDLDEEDVEKALELAEEKYCPVWAMLKGNVPVTWEYEI  143 (143)
+Confidence            9999999999 8888899999999999 99999999999999999876
+
+
+No 33
+>NKC14880.1_29-121
+Probab=90.98  E-value=0.00021  Score=41.44  Aligned_cols=106  Identities=19%  Similarity=0.327  Sum_probs=92.7  Template_Neff=3.700
+
+Q WP_132031010.1   30 TVFAFTTDeTASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLFMQGEADD  109 (139)
+Q Consensus        30 drw~~~tD.~a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl~G~~dD  108 (140)
+                      ..|.+.+|  +.+..=+|+..|.+++|.|-..-+..||...+++++.++|..+..|..  .+-..+.|+..|.. .+-|+
+T Consensus        10 ~~~~~~~~.-~~~~~~~p~~mla~SLa~CTaavl~~ya~~~~~~~d~l~i~v~W~~ae--~P~RI~~i~m~i~w-P~LPe   84 (115)
+T NKC14880.1_29-   10 ADFDFTLE.-SEGAHFSPLQMLATSLALCTAAVLASYAERADLPLDGLTIRVRWEYAE--DPYRIGRIDMDIRW-PELPE   84 (115)
+Confidence            33444444  667777999999999999999999999999999999999999999986  47788999999999 88888
+
+
+Q WP_132031010.1  110 ETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       109 e~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      ++++.+.+.|+ .|.+|+++.+..+++++|+|
+T Consensus        85 ~R~~A~~RAA~-~CtvH~TL~~~~~i~t~v~~  115 (115)
+T NKC14880.1_29-   85 SRLKAAQRAAH-HCTVHNTLHHPPEIETRVEV  115 (115)
+Confidence            88888777666 99999999999999999986
+
+
+No 34
+>GHN02128.1_7-130
+Probab=90.47  E-value=0.00026  Score=41.44  Aligned_cols=100  Identities=20%  Similarity=0.279  Sum_probs=93.2  Template_Neff=4.400
+
+Q WP_132031010.1   40 ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLFMQGEADDETFETLQRIA  119 (139)
+Q Consensus        39 a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl~G~~dDe~t~~L~~~A  118 (140)
+                      |.+.+=.+-.++..+||=||..-|-|-|+.++++|++++|+....|..  ..-.+..+.+++.++++++++.+++|++.+
+T Consensus        35 G~G~g~NGGELL~LALg~CfCNDLyreA~~~gi~I~~v~V~V~~~f~g--~~~~a~~~~y~v~v~~~a~~~~i~~Li~~t  112 (134)
+T GHN02128.1_7-1   35 GYGSGFNGGELLALALGGCFCNDLYREAAKRGIEIDSVEVEVTGEFGG--EPEPATNIRYRVRVESDASEEDIEALIRHT  112 (134)
+Confidence            778888889999999999999999999999999999999999999985  455688899999999999999999999999
+
+
+Q WP_132031010.1  120 AATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       119 AntCYaHRal~~evevt~~v~~  140 (140)
+                      .+.|..|+++++.+|++++.+|
+T Consensus       113 d~vaeV~NTLr~G~~V~l~~~~  134 (134)
+T GHN02128.1_7-1  113 DQVAEVHNTLRRGVPVTLEMSI  134 (134)
+Confidence            9999999999999999988664
+
+
+No 35
+>WP_025686538.1_4-139
+Probab=89.97  E-value=0.00032  Score=40.53  Aligned_cols=102  Identities=16%  Similarity=0.195  Sum_probs=91.3  Template_Neff=5.700
+
+Q WP_132031010.1   40 ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLFMQ-----GEADDETFET  114 (139)
+Q Consensus        39 a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl~-----G~~dDe~t~~  113 (140)
+                      |.+..-+|...|.+.+|=||+--|...++.+|+++++++|.-.+..........+..|.-+..|.     +++..+.+++
+T Consensus        41 G~G~GtnP~eLL~sAaasCy~iTL~~~le~~~l~~~~l~v~s~g~~~~~~g~~~~~~I~h~p~I~l~~~~~~~~~~~~~~  120 (147)
+T WP_025686538.1   41 GPGVGTNPDELLLSAAASCYIITLAAMLERRGLPVESLTVESEGIVSKEPGVFRFEKIIHRPTIVLSSGATEEDIEKAER  120 (147)
+Confidence            88888999999999999999999999999999999999999998888765566777777777666     6788899999
+
+
+Q WP_132031010.1  115 LQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       114 L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      +++.|++.|+..++++..+.++++.+|
+T Consensus       121 ~~~~Ae~~CmIsnalrgnV~I~v~~~i  147 (147)
+T WP_025686538.1  121 LAEKAEKNCMISNALRGNVEIEVEPTI  147 (147)
+Confidence            999999999999999999999888765
+
+
+No 36
+>NLO74005.1_17-131
+Probab=89.57  E-value=0.00037  Score=41.11  Aligned_cols=125  Identities=14%  Similarity=0.201  Sum_probs=112.9  Template_Neff=4.500
+
+Q WP_132031010.1    9 GSRDFATGLYHSRVALNRAGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMS   83 (139)
+Q Consensus         9 G~~Df~~Glv~t~Vgfpea~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S   82 (140)
+                      -.-.-++|..++++       +.|++++| .     |-+.+|+|...+.+.+|-|+---+--+|..++++|++++|+..+
+T Consensus        11 v~aegrsGvR~iri-------r~~qiisD.s~p~~aG~dLGP~spE~lLg~LgSCl~h~~liqAa~~~Ipld~leVeV~a   82 (147)
+T NLO74005.1_17-   11 VTAEGRSGVRRIRI-------RDHQIISD.SPPDLAGYDLGPTSPELLLGVLGSCLTHTFLIQAALRGIPLDSLEVEVTA   82 (147)
+Confidence            33344566666665       78999999 8     99999999999999999999999999999999999999999999
+
+
+Q WP_132031010.1   84 PWGVR-------DGTGEAFAYDTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        83 ~f~~~-------~t~a~A~p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      .++..       ........|.+++.|.|++++|.+++|.+..|+.|+.+++++++.+++.++||
+T Consensus        83 ~~d~r~~~~~~~~~p~~p~~i~Y~v~i~Spas~e~i~~L~~aVE~~CPIlNll~~pq~I~~~~~~  147 (147)
+T NLO74005.1_17-   83 ELDPRGGQPGFEDAPPYPHNIRYTVRIESPASDEQIEALHAAVERNCPILNLLRNPQPITGTVEV  147 (147)
+Confidence            99986       24566788999999999999999999999999999999999999999999986
+
+
+No 37
+>GGU16139.1_1-99
+Probab=89.41  E-value=0.00039  Score=40.77  Aligned_cols=112  Identities=19%  Similarity=0.225  Sum_probs=97.2  Template_Neff=4.500
+
+Q WP_132031010.1   28 GATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPI-RGVRLVQMSPWGVRDGTGEAFAYDTHL  101 (139)
+Q Consensus        28 ~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi-~~~RLvQ~S~f~~~~t~a~A~p~dTHl  100 (140)
+                      ..+.|++.-+ -     |.+.++.|-..|+||-|=||+.-+...|...|+++ .+.+|.....+......|-.-.++.+|
+T Consensus        25 ~d~~l~~~~~.~Pk~~GG~g~gtNPEqLFAAGyAACF~~Al~~va~~~~~~~p~~~~Vta~V~ig~~~~ggF~L~v~l~V  103 (142)
+T GGU16139.1_1-9   25 SDGPLDVKLA.RPKELGGGGDGTNPEQLFAAGYAACFLGALKLVAAQAGVKLPADSEVTATVSIGPDDDGGFGLAVDLHV  103 (142)
+Confidence            5566666555 3     88899999999999999999999999999999999 899999888887743445567788888
+
+
+Q WP_132031010.1  102 FMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       101 Fl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      .+. +-+.+.+++|++.|.+.|+-.++++..++++++++|
+T Consensus       104 ~lp-Gl~~~~a~~Lv~~Ah~vCPYS~AtrgNI~V~l~v~v  142 (142)
+T GGU16139.1_1-9  104 SLP-GLDREEAEELVEKAHEVCPYSNATRGNIDVTLTVRV  142 (142)
+Confidence            887 557999999999999999999999999999999886
+
+
+No 38
+>TVQ38026.1_37-183
+Probab=89.34  E-value=0.0004  Score=41.10  Aligned_cols=115  Identities=15%  Similarity=0.250  Sum_probs=109.7  Template_Neff=4.900
+
+Q WP_132031010.1   26 RAGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR-------DGTGE   93 (139)
+Q Consensus        26 ea~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~-------~t~a~   92 (140)
+                      ......|.+.+| |     |.+.||+|..|++++++.|++.=+.--|..+++.|+++++...++.+..       +...+
+T Consensus        33 ~~~~~~f~~~~D.EP~~L~G~~~apnP~EllLaAl~aClt~~~v~~Aa~~GI~l~~l~i~~eG~lDlrgflgl~~~vrpG  111 (159)
+T TVQ38026.1_37-   33 QSRSRPFVVDSD.EPPALGGENTAPNPQELLLAALGACLTAGFVANAAARGITLESLEIEVEGDLDLRGFLGLDPDVRPG  111 (159)
+Confidence            367899999999 9     9999999999999999999999999999999999999999999998888       45778
+
+
+Q WP_132031010.1   94 AFAYDTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        93 A~p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      +..|..++.|++|.++|.+++|.+.+.++|+...++++++|++++++|
+T Consensus       112 ~~~I~v~i~V~~da~~e~le~L~~~v~~~SPv~d~l~npv~V~~~~~v  159 (159)
+T TVQ38026.1_37-  112 FQRIRVRIHVDGDASPEQLEELHQQVQKTSPVRDTLANPVPVEVTLEV  159 (159)
+Confidence            999999999999999999999999999999999999999999999986
+
+
+No 39
+>MBK9730424.1_3-134
+Probab=87.61  E-value=0.00067  Score=39.05  Aligned_cols=131  Identities=16%  Similarity=0.214  Sum_probs=90.3  Template_Neff=5.400
+
+Q WP_132031010.1    8 EGSRDFATGLYHSRVALNRAGATVFAFTTDeTASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGV   87 (139)
+Q Consensus         8 ~G~~Df~~Glv~t~Vgfpea~adrw~~~tD.~a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~   86 (140)
+                      .|+.--..|++.+.-|-....  .|.|.+= -+++..=+|-..++|..|=||-..|..-....+.+-+++...-...+..
+T Consensus        15 ~G~l~~G~G~v~t~sg~~~~~--~ys~~sR.~~~~~gTnPEELlAAAhA~CFsMaLa~~L~~~g~~~~~i~t~a~V~l~~   91 (147)
+T MBK9730424.1_3   15 EGDLKEGSGTVSTQSGALSNG--PYSFASR.FEDGPGTNPEELIAAAHAGCFSMALSAELGEAGFTPESIETTATVTLEK   91 (147)
+Confidence            355555557776655533222  3333322 1223447899999999999999999999999999999999999888886
+
+
+Q WP_132031010.1   88 RDGTGEAFAYDTHLFMQ-GEADDETFETLQRIAAATCYLHRSMET-ETPVTLGV--  139 (139)
+Q Consensus        87 ~~t~a~A~p~dTHlFl~-G~~dDe~t~~L~~~AAntCYaHRal~~-evevt~~v~~  140 (140)
+                      ....-....++.++... .+.+++..+++++.|.+.|++.++++. ++.++++++|
+T Consensus        92 ~~~G~~I~~i~L~v~a~vpgi~~~~F~~~A~~Ak~~CPVSraL~~~~Itl~a~l~~  147 (147)
+T MBK9730424.1_3   92 VDGGFTITKIHLTVRAKVPGIDEAKFQEIAEEAKANCPVSKALNGVEITLDATLEV  147 (147)
+Confidence            41111233333333333 245889999999999999999999998 5555555544
+
+
+No 40
+>MBO87141.1_28-144
+Probab=85.70  E-value=0.001  Score=37.91  Aligned_cols=109  Identities=20%  Similarity=0.284  Sum_probs=91.3  Template_Neff=4.800
+
+Q WP_132031010.1   29 ATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLFM  103 (139)
+Q Consensus        29 adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl  102 (140)
+                      .+.-.+..| +     |.+.+.+|-.+++|++|=|+..-+...|..+++++++++++-+..-+.....|...  ...+.|
+T Consensus        21 d~~~~v~~~.~p~e~gG~G~~~sP~eLlaAALG~Cl~~~l~~~A~~~gi~l~~~~v~~~V~~~~~~~pgy~~--r~~l~V   97 (134)
+T MBO87141.1_28-   21 DGGLSVVTD.EPPELGGPGEGTSPEELLAAALGGCLLSSLRIAAATHGISLDGATVTVEVTKEPEDGPGYSA--RFALTV   97 (134)
+Confidence            344445555 4     89999999999999999999999999999999999999999665544444444444  777888
+
+
+Q WP_132031010.1  104 QGEADDETFETLQRIAAATCYLHRSMETETPVTLGV-  139 (139)
+Q Consensus       103 ~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~  139 (140)
+                      +.+..+|++++++..|++.|+.|.++..+++++++++
+T Consensus        98 ~~p~~de~~~~vl~~A~~~CPV~ksL~~~v~v~i~~~  134 (134)
+T MBO87141.1_28-   98 SLPGTDEKIDAVLAQAARICPVHKSLAGAVPVRITVE  134 (134)
+Confidence            8888899999999999999999999999999888764
+
+
+No 41
+>MBM4074294.1_55-162
+Probab=84.40  E-value=0.0014  Score=37.48  Aligned_cols=114  Identities=18%  Similarity=0.259  Sum_probs=108.4  Template_Neff=5.400
+
+Q WP_132031010.1   27 AGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR-------DGTGEA   94 (139)
+Q Consensus        27 a~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~-------~t~a~A   93 (140)
+                      ..+.+|.|..| +     |.+.+|.|..++++++|=|+-.-+..+|..++++|++++|+..+.++..       ....++
+T Consensus        25 ~~~~~~~~~~~.~h~~~GG~~~~~nPge~LlaALaaC~~~t~r~vA~~~gI~l~~l~V~vegd~D~rG~lg~~~~vpvGf  103 (150)
+T MBM4074294.1_5   25 CTSRGFSIPSD.EHPAVGGDHDGPNPGELLLAALAACLGSTLRMVANALGIELKSLEVEVEGDLDVRGTLGVDRDVPVGF  103 (150)
+Confidence            57888999999 8     8899999999999999999999999999999999999999999999877       667788
+
+
+Q WP_132031010.1   95 FAYDTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        94 ~p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      ..|.+++.|+++.++|.+++|++.+|+.|+..+++++..|+.++++|
+T Consensus       104 q~I~~~v~i~~~~~~e~i~~L~~~~E~~C~V~qTL~~~~~v~~~~~v  150 (150)
+T MBM4074294.1_5  104 QEIRCTVDIKSDASPEEIEKLIEAAERYCPVLQTLRNGPPVTIEVEV  150 (150)
+Confidence            99999999999999999999999999999999999999999999886
+
+
+No 42
+>WP_203629635.1_15-140
+Probab=82.93  E-value=0.0018  Score=37.22  Aligned_cols=114  Identities=13%  Similarity=0.223  Sum_probs=106.8  Template_Neff=4.200
+
+Q WP_132031010.1   27 AGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR-DGTGEAFAYDTH  100 (139)
+Q Consensus        27 a~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~-~t~a~A~p~dTH   99 (140)
+                      ...+.|+|++| |     |++.+|+|-.||++.++=|+..-....|..++++|+.++|...+.-+.- +..++...|..+
+T Consensus        19 ~q~g~h~~l~D.EPv~~~GTDaGPnPVeYLl~AlGsCl~iTA~~lA~~~~i~i~~f~V~~~G~~~~~~d~~s~v~~I~~~   97 (138)
+T WP_203629635.1   19 NQAGNHQFLAD.EPVSFGGTDAGPNPVEYLLGALGSCLAITARDLARKRKIEIKKFEVDVEGETERFPDKRSKVTKIRVK   97 (138)
+Confidence            45578999999 9     9999999999999999999999999999999999999999988877744 778889999999
+
+
+Q WP_132031010.1  101 LFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       100 lFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      |.++|+.+++..++|++..-.-|.+|.+|++++|+++++++
+T Consensus        98 i~~~s~l~~~~~~~Fi~~v~~~ctVh~tL~~~V~i~~~i~~  138 (138)
+T WP_203629635.1   98 ITFESDLSEEQQEAFINEVLKVCTVHNTLENAVPIEIEIEI  138 (138)
+Confidence            99999999999999999999999999999999999999874
+
+
+No 43
+>KTC56145.1_1-101
+Probab=82.84  E-value=0.0018  Score=37.46  Aligned_cols=101  Identities=19%  Similarity=0.221  Sum_probs=90.1  Template_Neff=3.900
+
+Q WP_132031010.1   40 ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLFMQGEADDETFETLQRIA  119 (139)
+Q Consensus        39 a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl~G~~dDe~t~~L~~~A  118 (140)
+                      |.+.+..|-..|+||-|=||..-|..-|...|+++.+..|............|..-.++.+|.| .+-+++.+++|++.|
+T Consensus        41 G~g~~TNPEQLFAAGYAACF~~Al~~va~~~kv~~~~~~V~a~V~l~~~~~ggf~L~v~L~V~l-pgv~~~~A~~lv~~A  119 (141)
+T KTC56145.1_1-1   41 GSGGGTNPEQLFAAGYAACFHGALQLVARKQKVDLADSSVTAEVSLGPDPEGGFGLAVRLEVTL-PGVDQEDAEELVEAA  119 (141)
+Confidence            6778899999999999999999999999999999988888887777765344777778888888 567888999999999
+
+
+Q WP_132031010.1  120 AATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       119 AntCYaHRal~~evevt~~v~~  140 (140)
+                      .+.|+-..+.|..+++.++|+|
+T Consensus       120 h~~CPYS~A~rGNidV~i~v~v  141 (141)
+T KTC56145.1_1-1  120 HQVCPYSKATRGNIDVTISVEV  141 (141)
+Confidence            9999999999999999999986
+
+
+No 44
+>MBL8114860.1_2-142
+Probab=79.89  E-value=0.0028  Score=36.63  Aligned_cols=132  Identities=17%  Similarity=0.226  Sum_probs=97.8  Template_Neff=4.100
+
+Q WP_132031010.1    2 TWKVNGEGSRDFATGLYHSRVALNRAGATVFAFTTDeTASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQ   81 (139)
+Q Consensus         2 ~whV~a~G~~Df~~Glv~t~Vgfpea~adrw~~~tD.~a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ   80 (140)
+                      +|.=..+|+-+...+.-..++-|..+..-+        |.+..=.|-..|++++|=||.+-++-.++.+||+|.+++++.
+T Consensus        13 sW~G~~~G~G~~~~~~~~~~~~~sv~~efg------.-G~g~~tnPEELLlaAiaaCy~~T~~ii~~k~kLpv~~~~~~a   84 (150)
+T MBL8114860.1_2   13 SWSGGRDGSGSISNGESGFRNPLSVPPEFG------.-GPGGGTNPEELLLAAIAACYSITFAIIAAKRKLPVKSPEVEA   84 (150)
+Confidence            455445555555555444444443333222        778888999999999999999999999999999999999998
+
+
+Q WP_132031010.1   82 MSPWGVR-DGTGEAFAY--DTHLFMQ---GEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        81 ~S~f~~~-~t~a~A~p~--dTHlFl~---G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      ...-..+ +..=.+..|  .-||-+.   .+++.+.+++++..|++-|+..+++|..+++.++.+|
+T Consensus        85 ~g~v~~d~~~gf~~~~i~L~P~i~l~~~~~~~~~~~a~~~~~lA~~yCiIs~Avrg~V~~~Vep~i  150 (150)
+T MBL8114860.1_2   85 EGEVEQDNGGGFRFTKIVLRPHIPLAADATEEDVAKAEKMAHLAEKYCIISKAVRGKVEYEVEPTI  150 (150)
+Confidence            8888774 222223333  3455666   3455577999999999999999999999999998875
+
+
+No 45
+>RPJ43666.1_41-171
+Probab=78.90  E-value=0.0031  Score=36.37  Aligned_cols=114  Identities=17%  Similarity=0.197  Sum_probs=109.1  Template_Neff=4.200
+
+Q WP_132031010.1   27 AGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR------DGTGEAF   95 (139)
+Q Consensus        27 a~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~------~t~a~A~   94 (140)
+                      ...+.|+|.+| .     |++.+|+|--|.=|+|+=|+-.=+.++|..++++|++++|+..+.|+..      +..++..
+T Consensus        29 v~~g~~~~~~D.mp~~~GG~~~gP~PG~~~RAAl~sClAig~~m~AAr~gv~~~~veVeVeaD~D~rgl~G~~~~~pg~~  107 (153)
+T RPJ43666.1_41-   29 VEEGSWKLVAD.MPEAMGGTGSGPNPGVLGRAALGSCLAIGYKMWAAREGVPLDSVEVEVEADYDDRGLFGLDDVPPGYL  107 (153)
+Confidence            34789999999 8     9999999999999999999999999999999999999999999999997      7778888
+
+
+Q WP_132031010.1   96 AYDTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        95 p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      .+.++|.|+|+++++.+++|++.|.+.|+.+.+++.+.+++++|+|
+T Consensus       108 ~~R~~V~I~S~ape~~i~~lvd~A~~~sP~~~~~r~~q~V~~~v~i  153 (153)
+T RPJ43666.1_41-  108 ETRYTVTIESDAPEEEIRRLVDRADAHSPWLDAFRDAQPVTREVSI  153 (153)
+Confidence            9999999999999999999999999999999999999999999986
+
+
+No 46
+>MBK6315638.1_3-139
+Probab=78.31  E-value=0.0034  Score=34.53  Aligned_cols=102  Identities=22%  Similarity=0.194  Sum_probs=88.9  Template_Neff=6.100
+
+Q WP_132031010.1   40 ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYD--THLFMQGEADDETFETLQR  117 (139)
+Q Consensus        39 a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~d--THlFl~G~~dDe~t~~L~~  116 (140)
+                      |.+..=||-..|.|.++-|||+-+-.+|+..++++.+|+..-.+.....+..-.+..|.  -+|.|.++++.++++++++
+T Consensus        40 G~~~~WsPE~Llvaav~sC~m~TFl~~A~~~~l~~~~y~s~a~G~le~~~~~~~fT~I~l~p~i~v~~~~d~~ka~~ll~  119 (143)
+T MBK6315638.1_3   40 GPPGIWSPEHLFVAAVASCFMTTFLAIAEKSKLEFVSYECEAEGTLEKVDGKFRFTEITLRPTLTVPSEADREKAERLLE  119 (143)
+Confidence            66777789999999999999999999999999999999999998888753333444444  4578888899999999999
+
+
+Q WP_132031010.1  118 IAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       117 ~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      .|++.|+..+.++.++.++.+|+|
+T Consensus       120 ~Ae~~ClIsnSlk~~V~vep~i~V  143 (143)
+T MBK6315638.1_3  120 KAEKYCLISNSLKSEVHLEPEIEV  143 (143)
+Confidence            999999999999999999998886
+
+
+No 47
+>WP_089404091.1_32-140
+Probab=76.22  E-value=0.0043  Score=35.07  Aligned_cols=109  Identities=19%  Similarity=0.271  Sum_probs=96.9  Template_Neff=3.800
+
+Q WP_132031010.1   27 AGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHL  101 (139)
+Q Consensus        27 a~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHl  100 (140)
+                      ...+.+.+.+| |     |.+.+|+|..|+++++|=|----|.+|++..+.++.++.|..  .|... ..|...-++-.|
+T Consensus        19 ~~ag~h~~~~D.ep~~~GG~d~GP~P~e~LLsaL~sCtAiTLRmYad~K~w~~~~i~V~v--~~~~~-~~g~~~~i~r~I   94 (132)
+T WP_089404091.1   19 IEAGDHTLVAD.EPPSDGGKDSGPTPFEYLLSALGSCTAITLRMYADRKGWPLGDITVDV--TLHRE-HDGIQSYIERTI   94 (132)
+Confidence            35677999999 9     999999999999999999999999999999999999998884  33332 367778999999
+
+
+Q WP_132031010.1  102 FMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV-  139 (139)
+Q Consensus       101 Fl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~  139 (140)
+                      .++++-+++..++|.++|++ |++...++..++|+++++
+T Consensus        95 s~~~~ld~~Q~~~L~eiAek-~PVt~~vk~~~~I~Tt~~  132 (132)
+T WP_089404091.1   95 SFDGELDEEQKERLAEIAEK-CPVTLTVKRGTRIRTTLE  132 (132)
+Confidence            99999999999999998886 899999999999999875
+
+
+No 48
+>WP_015258636.1_36-133
+Probab=69.83  E-value=0.0079  Score=33.34  Aligned_cols=96  Identities=21%  Similarity=0.329  Sum_probs=70.9  Template_Neff=1.900
+
+Q WP_132031010.1   40 ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLFMQGEADDETFETLQRIA  119 (139)
+Q Consensus        39 a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl~G~~dDe~t~~L~~~A  118 (140)
+                      ++...=.|+..++..++-|+.---+||.+.++++ ..++++.+..|+..  .-..+..+..+.|...-++..-+.|-+| 
+T Consensus        20 ~g~lG~~PveHLAiaLg~ClsEFa~RFLeRR~lP-~a~~~ei~Wkv~~r--~C~i~~l~vtL~lat~Lde~~r~tl~RM-   95 (115)
+T WP_015258636.1   20 PGPLGLRPVEHLAIALGGCLSEFAGRFLERRDLP-RAMRLEIDWKVSIR--RCRISRLQVTLHLATGLDEMARQTLERM-   95 (115)
+Confidence            4555567889999999999999999999999998 45788888888865  3334455555566555554444444343 
+
+
+Q WP_132031010.1  120 AATCYLHRSMETETPVTLGV  139 (139)
+Q Consensus       119 AntCYaHRal~~evevt~~v  138 (140)
+                      .+-|++|+++...+++.++|
+T Consensus        96 ld~CPVHkal~GnveV~~~v  115 (115)
+T WP_015258636.1   96 LDQCPVHKALHGNVEVPLEV  115 (115)
+Confidence            46799999999999887764
+
+
+No 49
+>PYO48835.1_2-120
+Probab=69.17  E-value=0.0084  Score=33.42  Aligned_cols=108  Identities=13%  Similarity=0.242  Sum_probs=84.5  Template_Neff=2.900
+
+Q WP_132031010.1   27 AGATVFAFTTDeTASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR-DGTGEAFAYDTHLFMQG  105 (139)
+Q Consensus        27 a~adrw~~~tD.~a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~-~t~a~A~p~dTHlFl~G  104 (140)
+                      +..+...+-.+  ..+.-=||...+++|+|.|-++-|.-||...|+++++++|+....|... ...|.     .+|.++-
+T Consensus        14 ~~~gplTIEa~.-sa~~~YSPFHMLaSsLa~Ct~SVL~SWAt~a~i~~ddL~idV~W~fae~PhRVg~-----~~v~l~W   86 (122)
+T PYO48835.1_2-1   14 GTAGPLTIEAE.-SADQSYSPFHMLASSLATCTFSVLQSWATNAGIPTDDLAIDVSWEFAEDPHRVGS-----MDVVLDW   86 (122)
+Confidence            33444444444  4566678999999999999999999999999999999999999999865 22222     3455556
+
+
+Q WP_132031010.1  106 EADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       105 ~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      +.=++.-++-.+-+.+-|..|+++..+-+|.++|+|
+T Consensus        87 PsLp~~R~~aA~RaA~lC~VH~TL~~pp~I~~~v~~  122 (122)
+T PYO48835.1_2-1   87 PSLPAERRAAARRAAALCTVHATLEHPPEIEVEVQV  122 (122)
+Confidence            665556666667778899999999999999999876
+
+
+No 50
+>WP_102742664.1_3-133
+Probab=67.67  E-value=0.0095  Score=33.48  Aligned_cols=101  Identities=16%  Similarity=0.215  Sum_probs=87.6  Template_Neff=2.800
+
+Q WP_132031010.1   31 VFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLFMQG  105 (139)
+Q Consensus        31 rw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl~G  104 (140)
+                      +=+|..| -     |.+.-|+|..|+.|-+|-|.|+-++-|++..+++++.++|+-+-+    ...++...++-+|.+-=
+T Consensus        24 ~a~~~TD.ip~a~gG~GE~psP~~ml~AtlASCMmSMva~~~~rk~~dt~G~~ieA~~e----e~~~~I~~~~l~v~mP~   98 (131)
+T WP_102742664.1   24 GATFTTD.IPSALGGRGEFPSPAQMLAATLASCMMSMVAFTGARKGFDTDGISIEARYE----EDKKGITALTLTVSMPH   98 (131)
+Confidence            3456777 6     999999999999999999999999999999999999999988776    25677888888888854
+
+
+Q WP_132031010.1  106 EADDETFETLQRIAAATCYLHRSMETETPVTL  137 (139)
+Q Consensus       105 ~~dDe~t~~L~~~AAntCYaHRal~~evevt~  136 (140)
+                      +- ....+++++.+.+.|+++++++-.++..+
+T Consensus        99 ~~-s~~~r~mlE~~a~sCPV~~aL~p~iek~i  129 (131)
+T WP_102742664.1   99 PG-SDKERAMLEKAAESCPVGNALSPDIEKNI  129 (131)
+Confidence            44 77899999999999999999998877654
+
+
+No 51
+>XP_019042228.1_55-163
+Probab=67.35  E-value=0.0097  Score=32.85  Aligned_cols=115  Identities=10%  Similarity=0.153  Sum_probs=109.0  Template_Neff=5.200
+
+Q WP_132031010.1   26 RAGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR-------DGTGE   93 (139)
+Q Consensus        26 ea~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~-------~t~a~   92 (140)
+                      +..+++|.|..| |     |.+.+|.|..+++++++=|..--...||+.++++|++++|+..+.++.+       +...+
+T Consensus        21 ~~~~R~f~i~~D.EP~~~GGtd~GmnPvE~LL~aLgaC~~i~a~~~A~~~gi~l~~~~ie~eGdlD~dGf~g~~~~vr~G   99 (147)
+T XP_019042228.1   21 EAESRGFKIIID.EPKELGGTDTGMNPVELLLSALGACQAIVARAFAKAHGIKLEDIEVELEGDLDPDGFMGKNPDVRPG   99 (147)
+Confidence            456789999999 9     9999999999999999999999999999999999999999999999976       56678
+
+
+Q WP_132031010.1   94 AFAYDTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        93 A~p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      +..|.++++|+||+++|++++|++..+++|+++.++.+.++++.+|+|
+T Consensus       100 f~~Ir~~~~i~sd~~~E~i~~~~~~ve~~CPV~dtl~n~~~i~~~~~v  147 (147)
+T XP_019042228.1  100 FQEIRYTFHIKSDAPEEEIEQFIEFVEKRCPVGDTLANGVKIEPEVTI  147 (147)
+Confidence            999999999999999999999999999999999999999999999876
+
+
+No 52
+>EQB65907.1_48-165
+Probab=67.27  E-value=0.0098  Score=33.67  Aligned_cols=113  Identities=15%  Similarity=0.211  Sum_probs=99.8  Template_Neff=2.200
+
+Q WP_132031010.1   26 RAGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR-DGTGEAFAYDT   99 (139)
+Q Consensus        26 ea~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~-~t~a~A~p~dT   98 (140)
+                      ..+-..|.+-+| |     |.+..|+||.|+..|+--||-+-+.--|..++++|..+||.-..-|+.. -...+=.||.-
+T Consensus        19 ~se~~kf~~~AD.EP~vLGG~Gvh~tPLsyllfGVmSCfASTlaiqaa~~Gv~L~kLri~Ghl~YD~~Pvv~~SD~PIik   97 (137)
+T EQB65907.1_48-   19 RSETAKFEMGAD.EPKVLGGQGVHATPLSYLLFGVMSCFASTLAIQAALKGVKLGKLRITGHLYYDIGPVVGDSDEPIIK   97 (137)
+Confidence            456678999999 9     9999999999999999999999999999999999999999999988887 44555567777
+
+
+Q WP_132031010.1  100 HLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV-  139 (139)
+Q Consensus        99 HlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~  139 (140)
+                      .+.|+=+.|.+ ++++++.|.+.|++.-+++++++++++|+
+T Consensus        98 ~l~ieV~sDkd-l~eil~~s~krCPAlyai~npI~tEV~~~  137 (137)
+T EQB65907.1_48-   98 KLKIEVESDKD-LREILEISRKRCPALYAISNPIPTEVKVE  137 (137)
+Confidence            77776665555 99999999999999999999999999875
+
+
+No 53
+>WP_094047412.1_23-125
+Probab=62.98  E-value=0.014  Score=31.75  Aligned_cols=112  Identities=13%  Similarity=0.254  Sum_probs=98.5  Template_Neff=4.600
+
+Q WP_132031010.1   28 GATVFAFTTDeT---------ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYD   98 (139)
+Q Consensus        28 ~adrw~~~tD.~---------a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~d   97 (140)
+                      .++.|+++.| .         .+..+=+|..|+.|.+|.|+.--+.++.+.-+++++++.|+..+.=.. +.+..+..++
+T Consensus         7 ~~~~~~I~n~.~G~~~~~s~~~~~~g~sP~Ell~aSLglC~~itl~~~lerd~l~~d~~~v~V~a~K~~-~~psR~~~f~   84 (127)
+T WP_094047412.1    7 NNGEFEIYNE.RGIQVKGSSGPNEEGLSPKELLEASLGLCISITLQKLLERDGLEYDDISVEVTATKAE-GGPSRFEKFD   84 (127)
+Confidence            3455556555 4         345566899999999999999999999999999999999998887744 5688999999
+
+
+Q WP_132031010.1   99 THLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        98 THlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      ..|-+.+.-+++.-++|+..|+|.|-..+|+++..+++++|+|
+T Consensus        85 V~V~lp~~l~~~~keKL~~~aeR~CTIgNTLk~ga~I~~~i~~  127 (127)
+T WP_094047412.1   85 VEVKLPGNLEEEYKEKLIKSAERGCTIGNTLKHGAEITLTIEI  127 (127)
+Confidence            9999999999999999999999999999999999999999986
+
+
+No 54
+>PTQ51211.1_9-143
+Probab=61.33  E-value=0.015  Score=31.16  Aligned_cols=117  Identities=12%  Similarity=0.211  Sum_probs=104.2  Template_Neff=6.000
+
+Q WP_132031010.1   23 ALNRAGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAY   97 (139)
+Q Consensus        23 gfpea~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~   96 (140)
+                      .|...+++++.+.-| .     |.+.+|+|...+++|+|=|-..-+....+.+++++++++|+..+.-.. ..+-.+..|
+T Consensus        21 ~F~a~~~~G~~i~~D.~~~~~Gg~~~g~~PmellL~alagCt~~DVv~IL~K~r~~~~~~~v~v~ger~~-~~Pk~ft~I   98 (145)
+T PTQ51211.1_9-1   21 QFEAENESGHTVVMD.ASPEVGGENSGPRPMELLLMALAGCTGMDVVSILKKMRQPVTDFEVEVEGERAE-EHPKVFTKI   98 (145)
+Confidence            344455567888888 5     789999999999999999999999999999999999999999998765 577789999
+
+
+Q WP_132031010.1   98 DTHLFMQG-EADDETFETLQRIA-AATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        97 dTHlFl~G-~~dDe~t~~L~~~A-AntCYaHRal~~evevt~~v~~  140 (140)
+                      ..+..+.+ |-+++++++.++.+ ++-|.+.+.+++..+++.+++|
+T Consensus        99 ~l~y~v~G~di~~~~v~rAi~LS~eKYCsV~~~L~~~~~it~~~~I  144 (145)
+T PTQ51211.1_9-1   99 HLHYIVKGKDLDEEKVERAIELSQEKYCSVSAMLRKTAEITYEYEI  144 (145)
+Confidence            99999999 78999999999999 6789999999999999888765
+
+
+No 55
+>MBN9605167.1_65-177
+Probab=60.48  E-value=0.016  Score=32.53  Aligned_cols=114  Identities=18%  Similarity=0.233  Sum_probs=100.7  Template_Neff=1.800
+
+Q WP_132031010.1   15 TGLYHSRVALNRAGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR-   88 (139)
+Q Consensus        15 ~Glv~t~Vgfpea~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~-   87 (140)
+                      .|++.|+     ..+..|++.+| |     |.+.||.||.|..|||===..|-+.+.|..+++.|+++.+...-.|-.. 
+T Consensus        16 ~~~~~~t-----stGR~WrL~aD.EG~yL~GT~lAPAPL~hW~AGlhaDV~trIaa~Ara~gi~L~~L~v~VsQGfASqG   89 (140)
+T MBN9605167.1_6   16 RGLVETT-----STGRTWRLQAD.EGTYLGGTNLAPAPLMHWGAGLHADVATRIAALARARGITLTRLHVTVSQGFASQG   89 (140)
+Confidence            4555543     56889999999 9     9999999999999999999999999999999999999999988888765 
+
+
+Q WP_132031010.1   89 -----DGTGEAFAYDTHLFMQGEADDETFETLQRIAAATCYLHRSMETETP  134 (139)
+Q Consensus        88 -----~t~a~A~p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~eve  133 (140)
+                           ...|..-.++-.|.++|+.++..+.+|++.|..+-+++++++..++
+T Consensus        90 SfargeAV~lVf~l~wdv~v~~~a~~~~~d~lV~~Al~tSPa~aam~~~~~  140 (140)
+T MBN9605167.1_6   90 SFARGEAVGLVFDLDWDVDVDSSADRATADALVDQALATSPAVAAMRRAVE  140 (140)
+Confidence                 4556666778889999999999999999999999999999987653
+
+
+No 56
+>WP_115542419.1_27-164
+Probab=59.37  E-value=0.017  Score=32.11  Aligned_cols=115  Identities=14%  Similarity=0.208  Sum_probs=110.2  Template_Neff=4.600
+
+Q WP_132031010.1   26 RAGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR-------DGTGE   93 (139)
+Q Consensus        26 ea~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~-------~t~a~   92 (140)
+                      ......|.|..| |     |.+.||.|..|+.++++-|+|.-+.-.|..++++|++++++-.+..+..       ....+
+T Consensus        30 ~~~~r~F~~~~D.EP~~LlG~d~aPNP~E~lLaAL~sCl~vg~v~~AaarGI~l~~lei~~eGdlDL~gflGl~~~v~~G  108 (156)
+T WP_115542419.1   30 QSRSRDFTIDID.EPPELLGTDTAPNPQEYLLAALGSCLTVGYVANAAARGIELESLEIELEGDLDLRGFLGLDDNVRPG  108 (156)
+Confidence            566789999999 9     9999999999999999999999999999999999999999999999887       57888
+
+
+Q WP_132031010.1   94 AFAYDTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        93 A~p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      ++.|..++.|++|.++|++++|.+.+.++.+...++.++++++++++|
+T Consensus       109 f~~Ir~~v~v~~dat~Eql~el~~~v~~~SPv~~~l~n~V~v~~~l~v  156 (156)
+T WP_115542419.1  109 FEEIRVTVRVKGDATREQLEELHEHVQKTSPVFDTLTNPVPVEVELEV  156 (156)
+Confidence            999999999999999999999999999999999999999999999886
+
+
+No 57
+>NHI91738.1_5-152
+Probab=58.34  E-value=0.019  Score=31.60  Aligned_cols=115  Identities=15%  Similarity=0.266  Sum_probs=104.6  Template_Neff=4.400
+
+Q WP_132031010.1   26 RAGATVF-AFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR--DGTGEAFAY   97 (139)
+Q Consensus        26 ea~adrw-~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~--~t~a~A~p~   96 (140)
+                      ++....| ++..| |     |++.+|||+.|+++|||=|+-|-+.--+++.+++|++++|..+++..-.  ...-....+
+T Consensus        17 ~a~~r~f~~i~iD.EP~~fhGtD~GPSpveYlLigIGGClgssf~~cl~k~~I~i~~l~V~v~G~l~h~~~~~~lr~~~i   95 (141)
+T NHI91738.1_5-1   17 KAKARHFPEIIID.EPESFHGTDLGPSPVEYLLIGIGGCLGSSFKFCLQKKDIKIDELKVIVDGKLKHKGPDGMLRLTKI   95 (141)
+Confidence            4445555 89999 9     9999999999999999999999999999999999999999999999876  444677788
+
+
+Q WP_132031010.1   98 DTHLFMQ--GEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        97 dTHlFl~--G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      +.++.+.  ++++.|.+..+++.-..-|.+.+.+++..|++++++|
+T Consensus        96 ~v~i~i~~~~~e~~e~i~~c~~~f~kyCvVs~si~~giPi~~~~~i  141 (141)
+T NHI91738.1_5-1   96 EVEIRIKVKDEEDKEKIEECFEIFKKYCVVSNSIRNGIPIEVKLKI  141 (141)
+Confidence            8888888  8899999999999999999999999999999999876
+
+
+No 58
+>NVM35348.1_274-382
+Probab=57.83  E-value=0.019  Score=32.07  Aligned_cols=100  Identities=13%  Similarity=0.214  Sum_probs=89.8  Template_Neff=1.800
+
+Q WP_132031010.1   25 NRAGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR-----DGTGEA   94 (139)
+Q Consensus        25 pea~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~-----~t~a~A   93 (140)
+                      ....++.-.+++| |     |++.+|.|.+|-++|+.-|+.+.+...|.+.++.|+++++.-.++.+.+     ....-.
+T Consensus        22 ~tekaGEItvqtD.ETIILGGGGTsfhPValCI~Gf~a~~~~tFak~A~~~GI~L~~fei~akm~iDLT~~fGi~dgpmI  100 (139)
+T NVM35348.1_274   22 KTEKAGEITVQTD.ETIILGGGGTSFHPVALCIAGFSACYSATFAKWASMEGIQLKRFEIKAKMDIDLTTAFGIEDGPMI  100 (139)
+Confidence            4456778899999 9     9999999999999999999999999999999999999999988888777     222667
+
+
+Q WP_132031010.1   95 FAYDTHLFMQGEADDETFETLQRIAAATCYL  125 (139)
+Q Consensus        94 ~p~dTHlFl~G~~dDe~t~~L~~~AAntCYa  124 (140)
+                      +.++.+++|+|+.|.|++.++++.+...|+-
+T Consensus       101 d~f~~El~VeS~ap~E~L~~Ile~akkR~pg  131 (139)
+T NVM35348.1_274  101 DDFQVELLVESDAPMEELNEILEIAKKRCPG  131 (139)
+Confidence            8888999999999999999999999999954
+
+
+No 59
+>MBE7174794.1_17-137
+Probab=56.15  E-value=0.021  Score=31.52  Aligned_cols=102  Identities=19%  Similarity=0.211  Sum_probs=84.1  Template_Neff=4.700
+
+Q WP_132031010.1   40 ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR-DGTGEAFAYDT--HLFMQGE--ADDETFET  114 (139)
+Q Consensus        39 a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~-~t~a~A~p~dT--HlFl~G~--~dDe~t~~  113 (140)
+                      |+....+|-..|.|.++=|.|--+-..|...|+.+.+|.=.-.+....+ .+......|..  .|...++  .+.+.+++
+T Consensus        49 g~~~~~nPEelfvAslsSCHMLtFLaiAak~g~~V~sY~D~A~g~L~kn~~G~~~it~V~L~P~V~f~~~~~p~~~~l~~  128 (155)
+T MBE7174794.1_1   49 GDPAAVDPEEAFVAALSSCHMLTFLAIAAKAGFVVDSYEDEAVGVLEKNEEGKMAVTRVTLRPRVTFSGEKQPDAEELEA  128 (155)
+Confidence            8899999999999999999999999999999999999998877776654 22222333322  3444555  68899999
+
+
+Q WP_132031010.1  115 LQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       114 L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      |-+.|.+.||.-+.++.++.++.+++|
+T Consensus       129 Lh~~AH~~CFIANSv~t~V~iep~~~v  155 (155)
+T MBE7174794.1_1  129 LHHKAHEECFIANSVKTEVVVEPTVEV  155 (155)
+Confidence            999999999999999999999988876
+
+
+No 60
+>WP_069718593.1_23-127
+Probab=54.56  E-value=0.024  Score=30.42  Aligned_cols=100  Identities=11%  Similarity=0.199  Sum_probs=88.0  Template_Neff=4.500
+
+Q WP_132031010.1   41 SGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLFMQG-EADDETFETLQRIA  119 (139)
+Q Consensus        40 ~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl~G-~~dDe~t~~L~~~A  118 (140)
+                      ....=.|...|.+.||-|-=.-|..+.+.++++++++.|+.+..=.. ..+.....|..|..|.+ +-++++++++++.+
+T Consensus        25 e~~GfRP~eLlVsSiAgCSg~vlr~IL~KkRi~~~~i~I~a~v~Rn~-e~anrIe~I~lhf~i~g~~l~e~k~~K~lela  103 (125)
+T WP_069718593.1   25 EEYGFRPYQLLVSSIAGCSGGVLRKILEKKRISYEDIQIEAEVERNE-EEANRIEKIHLHFVIKGKNLSEEKLEKALELA  103 (125)
+Confidence            44555789999999999999999999999999999999988655444 57778889999999977 77889999999999
+
+
+Q WP_132031010.1  120 AATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       119 AntCYaHRal~~evevt~~v~~  140 (140)
+                      ...|..-+.+..+.+++-+++|
+T Consensus       104 ~KNC~MiQSV~~sIeI~et~eI  125 (125)
+T WP_069718593.1  104 RKNCSMIQSVKDSIEITETFEI  125 (125)
+Confidence            9999999999999999888775
+
+
+No 61
+>HCN83455.1_5-101
+Probab=54.38  E-value=0.024  Score=30.18  Aligned_cols=102  Identities=17%  Similarity=0.218  Sum_probs=91.7  Template_Neff=5.100
+
+Q WP_132031010.1   40 ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLFMQ--GEADDETFETLQR  117 (139)
+Q Consensus        39 a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl~--G~~dDe~t~~L~~  116 (140)
+                      |.+.+=+|-.+|.|+++=|+|+-|.-+|+..++++.++.+.-.+........-.+..|+.|+.|.  .+.+++++++|++
+T Consensus        26 ~~~~~wtPEhLllAala~C~~~tf~~~a~~s~l~~~~~~~~a~G~v~~~eg~~~f~eI~~~~~v~l~~~~~~e~~~~lLe  105 (129)
+T HCN83455.1_5-1   26 GPEDGWTPEHLLLAALARCFLTTFRAIAERSRLEFTSLSIEAEGTVERREGRYRFVEIELRPEVTLPPEPDEEKARKLLE  105 (129)
+Confidence            67888899999999999999999999999999999999999988888765577788888888877  5557789999999
+
+
+Q WP_132031010.1  118 IAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       117 ~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      .||+.||..+.+..+..++.+|+|
+T Consensus       106 kAEr~C~i~~Sl~~~i~~~~~v~I  129 (129)
+T HCN83455.1_5-1  106 KAERDCFISNSLTAKIRYEWTVEI  129 (129)
+Confidence            999999999999999999888875
+
+
+No 62
+>WP_180982949.1_7-130
+Probab=53.31  E-value=0.026  Score=30.88  Aligned_cols=110  Identities=14%  Similarity=0.152  Sum_probs=101.7  Template_Neff=4.100
+
+Q WP_132031010.1   27 AGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHL  101 (139)
+Q Consensus        27 a~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHl  100 (140)
+                      .++.++++.+| -     |.+.+|+||.|...|+|=|.-|-+..-|+.+++++++++|+.......  ..+.+..+..++
+T Consensus        21 dNgRgHsvv~D.LP~~~gG~D~GpTaLEL~vMslAGCi~TIf~~vAkk~rl~~~~LeV~veA~K~~--~~~tit~v~~~v   97 (138)
+T WP_180982949.1   21 DNGRGHSVVLD.LPPEKGGDDTGPTALELAVMSLAGCIATIFALVAKKMRLEFENLEVEVEAEKPD--EAPTITEVHLKV   97 (138)
+Confidence            57888999999 6     899999999999999999999999999999999999999999998885  568899999999
+
+
+Q WP_132031010.1  102 FMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV-  139 (139)
+Q Consensus       101 Fl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~  139 (140)
+                      .|.|++++|++++.++..++.|++.....++. +.++++
+T Consensus        98 ~Vks~~~~ekl~k~l~~T~~~CPVg~lFe~Ag-V~~~~~  135 (138)
+T WP_180982949.1   98 KVKSDASEEKLEKCLELTLKNCPVGILFEKAG-VKIEHE  135 (138)
+Confidence            99999999999999999999999999999887 665554
+
+
+No 63
+>RLG10319.1_2-98
+Probab=51.55  E-value=0.029  Score=30.33  Aligned_cols=91  Identities=14%  Similarity=0.141  Sum_probs=78.5  Template_Neff=1.700
+
+Q WP_132031010.1   40 ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR------DGTGEAFAYDTHLFMQGEADDETFE  113 (139)
+Q Consensus        39 a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~------~t~a~A~p~dTHlFl~G~~dDe~t~  112 (140)
+                      |.+.-|+|..||.-|+|-||++-+--.|+.+++++..-.++.+...+..      ...-....++..+-++++.+++.+-
+T Consensus        14 G~g~RPsP~QYFl~gvAAsyLS~~MiiaSrrGik~~kA~le~~aeIdys~l~gise~~~pi~~~~~~l~le~else~elL   93 (116)
+T RLG10319.1_2-9   14 GEGIRPSPFQYFLFGVAASYLSIFMIIASRRGIKFSKASLEIKAEIDYSSLSGISENMEPIRHMEMYLNLECELSEEELL   93 (116)
+Confidence            8899999999999999999999999999999999998888877776665      2222344577889999999999999
+
+
+Q WP_132031010.1  114 TLQRIAAATCYLHRSME  130 (139)
+Q Consensus       113 ~L~~~AAntCYaHRal~  129 (140)
+                      +|++-|...|++...+.
+T Consensus        94 kLlEdAK~rCPVFs~~~  110 (116)
+T RLG10319.1_2-9   94 KLLEDAKNRCPVFSPMN  110 (116)
+Confidence            99999999999987654
+
+
+No 64
+>WP_205336404.1_31-172
+Probab=46.16  E-value=0.04  Score=30.24  Aligned_cols=116  Identities=17%  Similarity=0.173  Sum_probs=105.0  Template_Neff=3.700
+
+Q WP_132031010.1   25 NRAGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR-------DGTG   92 (139)
+Q Consensus        25 pea~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~-------~t~a   91 (140)
+                      ...+.++.++.+| =     |++.+|||--||=||+|-|.-|-+.+-|...++.|+.+.|+.++.=+..       ....
+T Consensus        17 ~v~~p~G~~~~TD.MP~~lGG~g~apsPGWllRAalASC~aT~IAMrAA~~GI~L~~LEV~v~S~SD~RGlLG~~d~V~a   95 (145)
+T WP_205336404.1   17 RVSGPNGERVVTD.MPKELGGGGSAPSPGWLLRAALASCAATLIAMRAAQEGIELTRLEVTVDSESDDRGLLGMDDAVPA   95 (145)
+Confidence            3455677789999 5     9999999999999999999999999999999999999999999887776       3556
+
+
+Q WP_132031010.1   93 EAFAYDTHLFMQGE-ADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        92 ~A~p~dTHlFl~G~-~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      +...+..+|.|.++ .+++++++|+++|.+.|++..++++++|++++|+|
+T Consensus        96 Gp~~~r~~VrI~A~g~~~~~Lr~lV~~a~~hsPV~~a~~~avpv~l~vev  145 (145)
+T WP_205336404.1   96 GPLSMRVRVRIAAPGVPPERLRELVEWAERHSPVSDALRRAVPVSLEVEV  145 (145)
+Confidence            67778899999998 78999999999999999999999999999999986
+
+
+No 65
+>SHJ71444.1_5-98
+Probab=42.47  E-value=0.049  Score=29.22  Aligned_cols=112  Identities=17%  Similarity=0.245  Sum_probs=102.1  Template_Neff=3.400
+
+Q WP_132031010.1   29 ATVFAFTTDeT----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR-------DGTGEAFAY   97 (139)
+Q Consensus        29 adrw~~~tD.~----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~-------~t~a~A~p~   96 (140)
+                      ++.|+|-.+ +    +.+..-+|..||++|+|=|+..--.+.|+.++++|+++.|+..+.-+..       +...++..|
+T Consensus         4 ~~~m~~~~~.~~~~~~~~~~~nPvEylLgslaGClN~vg~~VAremgidl~~L~V~ieGdid~a~~~g~~~~~R~Gfq~I   82 (126)
+T SHJ71444.1_5-9    4 SRQMSFDTG.DGNEFVVGNDANPVEYLLGSLAGCLNSVGHMVAREMGIDLKSLQVEIEGDIDPARYKGETTDDRAGFQSI   82 (126)
+Confidence            455666666 5    3778889999999999999999999999999999999999999887755       777889999
+
+
+Q WP_132031010.1   98 DTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        97 dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      +.++-+++|.+++.+++++++.+..|++...+.+++|+.++++|
+T Consensus        83 ~V~i~~dtdAd~~~l~~W~~~v~~RCPV~Dnl~n~T~~~v~~~~  126 (126)
+T SHJ71444.1_5-9   83 RVTISPDTDADDETLKEWMQAVEERCPVTDNLENETPVNVTVDV  126 (126)
+Confidence            99999999999999999999999999999999999999999876
+
+
+No 66
+>WP_127189166.1_10-133
+Probab=42.12  E-value=0.05  Score=29.44  Aligned_cols=97  Identities=18%  Similarity=0.282  Sum_probs=85.2  Template_Neff=3.300
+
+Q WP_132031010.1   43 RAPTGLTHISAAVAFCYMTQLSRYIDGMKLP--IRGVRLVQMSPWGVRDGTGEAFAYDTHLFMQGEADDETFETLQRIAA  120 (139)
+Q Consensus        42 ~APspL~yfsigtAFCYhTQLcRYvdvrrlP--i~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl~G~~dDe~t~~L~~~AA  119 (140)
+                      ..=+||..+.|.+|=|+..-..--|..+++.  |..++++....=.. ........++..+.|++|-+++.-+.|++.||
+T Consensus        35 ~GfnPldLL~AsLaaCl~lS~riAA~~lG~~~rl~ev~v~V~geKa~-d~psRi~rf~~~f~i~Gdl~~~~r~~i~~~Ae  113 (133)
+T WP_127189166.1   35 PGFNPLDLLYASLAACLVLSARIAASRLGLLDRLTEVRVEVTGEKAA-DGPSRIARFEIVFTIEGDLDDEERQAIVEAAE  113 (133)
+Confidence            3447999999999999999988888888886  88888877665444 47778888999999999999999999999999
+
+
+Q WP_132031010.1  121 ATCYLHRSMETETPVTLGV-  139 (139)
+Q Consensus       120 ntCYaHRal~~evevt~~v~  139 (140)
+                      ..|.++++++...+++++|+
+T Consensus       114 ~ICTVsNTL~~~~ei~~~v~  133 (133)
+T WP_127189166.1  114 EICTVSNTLRAGPEITVTVQ  133 (133)
+Confidence            99999999999999988874
+
+
+No 67
+>WP_063556588.1_3-130
+Probab=41.92  E-value=0.051  Score=29.14  Aligned_cols=113  Identities=14%  Similarity=0.189  Sum_probs=105.1  Template_Neff=4.000
+
+Q WP_132031010.1   26 RAGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTH  100 (139)
+Q Consensus        26 ea~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTH   99 (140)
+                      .+..++|.+.-| .     |.+.+|+|...++.++|=|...-..-|+..+|+++.+++++..+.|+..+..+....+...
+T Consensus        15 ~a~~~gh~l~mD.~~~~ngg~~~G~tP~emlL~AL~GC~~mv~~sy~~~~~i~~~dL~iei~gD~~~~g~~~~~~~i~V~   93 (133)
+T WP_063556588.1   15 QASIRGHNLIMD.YSKENGGTDQGTTPGEMLLTALGGCKLMVASSYAPKRNIDLEDLSIEIEGDFERDGIANGFLKIRVK   93 (133)
+Confidence            345667899999 5     9999999999999999999999999999999999999999999999987788899999999
+
+
+Q WP_132031010.1  101 LFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV  139 (139)
+Q Consensus       100 lFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v  138 (140)
+                      +.++++.++++++++.+.+++-|.+.+.+++..+++.++
+T Consensus        94 ~~~kt~~~~~~l~~~~k~v~~~C~V~~iLs~~~~ve~~~  132 (133)
+T WP_063556588.1   94 LTFKTDLDDEQLEELIKFVDRNCPVSNILSTKIEVEEKI  132 (133)
+Confidence            999999999999999999999999999999988887665
+
+
+No 68
+>OLD13946.1_30-137
+Probab=38.88  E-value=0.061  Score=29.01  Aligned_cols=100  Identities=17%  Similarity=0.284  Sum_probs=91.9  Template_Neff=2.600
+
+Q WP_132031010.1   30 TVF-AFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR------DGTGEAFAY   97 (139)
+Q Consensus        30 drw-~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~------~t~a~A~p~   96 (140)
+                      ..| .+++| |     |+++.||||.|+++++++|..--+.+-|+.++++++++.+...+.+...      ...+.+..+
+T Consensus        17 r~f~~~i~D.EPe~~GGTdqGPsPlE~~laal~~C~~v~vv~~Ad~mgl~~~~l~v~a~~~~d~r~~kg~~~~~p~f~~v   95 (129)
+T OLD13946.1_30-   17 RKFHTVIAD.EPESAGGTDQGPSPLEYLLAALAACQHVLVVKVADAMGLSFDSLTVTAEGDWDRRGLKGPPNPQPRFRKV   95 (129)
+Confidence            345 78899 8     9999999999999999999999999999999999999999988888776      677888899
+
+
+Q WP_132031010.1   98 DTHLFMQGEADDETFETLQRIAAATCYLHRSME  130 (139)
+Q Consensus        97 dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~  129 (140)
+                      ...+.|.|.||.|++.+|.+..|+.|++...+.
+T Consensus        96 tvevki~S~eP~dR~~el~e~ve~rcp~s~l~~  128 (129)
+T OLD13946.1_30-   96 TVEVKIQSNEPIDRIDELQEKVERRCPVSSLFS  128 (129)
+Confidence            999999999999999999999999999987654
+
+
+No 69
+>RIE10253.1_130-244
+Probab=37.74  E-value=0.066  Score=28.90  Aligned_cols=113  Identities=18%  Similarity=0.237  Sum_probs=101.1  Template_Neff=3.100
+
+Q WP_132031010.1   26 RAGATVFAFTTDeT---ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLF  102 (139)
+Q Consensus        26 ea~adrw~~~tD.~---a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlF  101 (140)
+                      .+...+|++.-+ -   .......|..=+.|.++-|+||-+...++.++++|++.+|.-.+.=+  +.++....|.++++
+T Consensus        19 ~A~tRg~~Ltl~.~~rgd~~aGfna~ETLlAALG~CLlTnl~~vae~~rl~id~~~i~l~~~R~--D~Pp~lv~i~y~l~   95 (134)
+T RIE10253.1_130   19 VASTRGFTLTLG.ARRGDPEAGFNAAETLLAALGTCLLTNLNAVAEKSRLPIDDARIDLTGTRR--DEPPGLVAIRYRLI   95 (134)
+Confidence            456677777777 6   45567899999999999999999999999999999999998766544  67889999999999
+
+
+Q WP_132031010.1  103 MQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       102 l~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      +.|++|+|++++|++.|.+---+.+++.+.+|++.+++|
+T Consensus        96 l~S~~p~ekl~~L~~la~k~gTVtnTL~~~v~i~g~~~~  134 (134)
+T RIE10253.1_130   96 LKSPEPAEKLERLHELAKKWGTVTNTLANAVPISGTWNI  134 (134)
+Confidence            999999999999999999999999999999999998875
+
+
+No 70
+>WP_070655707.1_1-107
+Probab=36.61  E-value=0.07  Score=29.07  Aligned_cols=118  Identities=15%  Similarity=0.207  Sum_probs=103.4  Template_Neff=2.800
+
+Q WP_132031010.1   23 ALNRAGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLS-RYIDGMKLPIRGVRLVQMSPWGVR------DG   90 (139)
+Q Consensus        23 gfpea~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLc-RYvdvrrlPi~~~RLvQ~S~f~~~------~t   89 (140)
+                      |..+-..+.|.|.+| .     |.+.||||.+|++-.+|=|-.--+. -.|-..+++|++++.+.+-.-+..      +.
+T Consensus        14 ~~a~isagpF~w~aD.lP~~lGG~N~APSPtayLLGALAGCAV~Fi~DtLAPq~gV~ie~v~A~A~c~~D~~GL~G~~g~   92 (143)
+T WP_070655707.1   14 GQARISAGPFNWDAD.LPPPLGGGNQAPSPTAYLLGALAGCAVAFIRDTLAPQFGVEIEDVEATASCGADLRGLLGMDGA   92 (143)
+Confidence            455667889999999 8     9999999999999999999554443 578889999999988776665555      67
+
+
+Q WP_132031010.1   91 TGEAFAYDTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        90 ~a~A~p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      .+....+...|.|.|++++|.+++|.+.-...|+..-++.++.+|.++.+|
+T Consensus        93 ~p~L~~l~L~I~i~sp~~~e~v~~l~~aw~eRCPVyLAL~~p~~V~v~~~v  143 (143)
+T WP_070655707.1   93 DPDLQDLSLTIQIQSPDPEERVQELAQAWQERCPVYLALKKPNDVTVTFEV  143 (143)
+Confidence            778888999999999999999999999999999999999999999999886
+
+
+No 71
+>NER80004.1_8-128
+Probab=35.26  E-value=0.076  Score=28.11  Aligned_cols=111  Identities=14%  Similarity=0.130  Sum_probs=96.2  Template_Neff=3.800
+
+Q WP_132031010.1   26 RAGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTH  100 (139)
+Q Consensus        26 ea~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTH   99 (140)
+                      +....++++++| -     |.+.+|+|-..|+|.||-|.=....+|.+..+|+.+.++|.....+...  .-..+.|..+
+T Consensus        13 ~~~aR~H~~~~D.qP~e~GG~D~GmTP~ElllaAlGsC~g~~~~~Yl~~~gl~~~Gl~v~v~~~~~~~--p~Ri~~i~i~   89 (128)
+T NER80004.1_8-1   13 SATARGHRILMD.QPEENGGTDEGMTPPELLLAALGSCAGFYAAQYLQTRGLDTEGLEVEVDADKAKS--PARIGNIRIE   89 (128)
+Confidence            456788999999 6     9999999999999999999999999999999999999999999888874  3667778888
+
+
+Q WP_132031010.1  101 LFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV-  139 (139)
+Q Consensus       100 lFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~  139 (140)
+                      |.+..+..++.. .=++.|.+.|.+|+++.++-++.++|+
+T Consensus        90 V~~p~~l~~~~~-~g~~rA~~~CiihNTL~~~P~I~iei~  128 (128)
+T NER80004.1_8-1   90 VSLPQSLGEEHR-KGLERAAEHCIIHNTLTHPPEIDIEIE  128 (128)
+Confidence            888776666655 556667788999999999999998875
+
+
+No 72
+>WP_010291756.1_3-135
+Probab=34.17  E-value=0.081  Score=28.20  Aligned_cols=118  Identities=14%  Similarity=0.230  Sum_probs=99.1  Template_Neff=3.300
+
+Q WP_132031010.1   22 VALNRAGATVFAFTTDeTASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHL  101 (139)
+Q Consensus        22 Vgfpea~adrw~~~tD.~a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHl  100 (140)
+                      .-|..-..++|.|..| ..+..||+|..-++++++-|=-+-.-...+..+.+|.+++++....-.. ..+.-.+.|..|-
+T Consensus        11 ~~F~~tt~~gf~~~vD.~d~~~ap~PtevlLsALgsCta~DVV~~Lq~k~~el~~l~~~v~~~lt~-~~PRly~svnLhy   88 (130)
+T WP_010291756.1   11 CQFEVTTEDGFTFVVD.ADSKKAPCPTEVLLSALGSCTATDVVAILQKKGVELTGLEVEVTYELTD-ESPRLYKSVNLHY   88 (130)
+Confidence            3466777889999999 8677999999999999999999999999999999999988876655444 5667788999999
+
+
+Q WP_132031010.1  102 FMQG-EADDETFETLQRIAAA-TCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       101 Fl~G-~~dDe~t~~L~~~AAn-tCYaHRal~~evevt~~v~~  140 (140)
+                      .|++ .-+++.+.+.++.|.+ -|-+-..+.....++.+++|
+T Consensus        89 ~Ikg~~vt~~~V~~a~~~a~~kyChV~lML~~~i~Ity~~~v  130 (130)
+T WP_010291756.1   89 VIKGKGVTEKMVEDAAELAINKYCHVCLMLKPTIKITYSIEV  130 (130)
+Confidence            9999 8899999999998865 57777777777777777664
+
+
+No 73
+>RJS50295.1_64-209
+Probab=33.43  E-value=0.085  Score=28.22  Aligned_cols=129  Identities=12%  Similarity=0.166  Sum_probs=113.4  Template_Neff=4.300
+
+Q WP_132031010.1    2 TWKVNGEGSRDFATGLYHSRVALNRAGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRG   76 (139)
+Q Consensus         2 ~whV~a~G~~Df~~Glv~t~Vgfpea~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~   75 (140)
+                      +|++..++.-+-..-          .-..+|.|..+ +     +.+.+||++.|+++.+|=|+.+=|..-|..+++.|++
+T Consensus         7 ~W~~Rvr~~~g~~a~----------v~~Rnh~f~vG.qPasF~~~~~~pSAvEyLL~ALga~L~~Gf~~~a~rr~i~vd~   75 (148)
+T RJS50295.1_64-    7 RWRVRVRWSGGLQAT----------VYARNHSFDVG.QPASFDEEDAAPSAVEYLLGALGADLTVGFQARASRRGIEVDD   75 (148)
+Confidence            577776665443321          12367888887 7     8999999999999999999999999999999999999
+
+
+Q WP_132031010.1   77 VRLVQMSPWGVR--------DGTGEAFAYDTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        76 ~RLvQ~S~f~~~--------~t~a~A~p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      +.++..++.+..        .+.+++..|+-.+|+.|++++++++++-+..-+.|++.+|++++++++++++|
+T Consensus        76 ~E~~v~g~L~N~L~~Lgv~e~G~Pg~~~I~~t~Yvss~a~e~~l~e~w~~tl~RSPl~~TL~~~v~l~~~l~I  148 (148)
+T RJS50295.1_64-   76 VEASVSGRLDNVLTHLGVGEEGSPGLESIEGTVYVSSPADEEKLRELWEETLRRSPLVQTLKRAVDLDLRLSI  148 (148)
+Confidence            999999998755        57888999999999999999999999999999999999999999999998875
+
+
+No 74
+>MBE6108391.1_24-120
+Probab=32.41  E-value=0.091  Score=27.70  Aligned_cols=96  Identities=14%  Similarity=0.239  Sum_probs=88.1  Template_Neff=3.700
+
+Q WP_132031010.1   45 PTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLFMQGEADDETFETLQRIAAATCY  124 (139)
+Q Consensus        44 PspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl~G~~dDe~t~~L~~~AAntCY  123 (140)
+                      =.|-.++.-++|-||..-+-..+..+++..++.+++..+.=+. ..+....-|...+.|.+.++++.+++-.+.|.+-|-
+T Consensus        32 ~~PYdlLlGAL~sC~YaTFldI~~Kkrl~f~~~~i~V~G~KR~-evPtTLe~v~i~iti~g~~dek~~~ka~eLA~kYCS  110 (127)
+T MBE6108391.1_2   32 LAPYDLLLGALGSCFYATFLDIAEKKRLSFESAEIEVSGEKRD-EVPTTLEWVKIDITIKGASDEKKFEKAAELAAKYCS  110 (127)
+Confidence            3466788899999999999999999999999999999988776 467788999999999999999999999999999999
+
+
+Q WP_132031010.1  125 LHRSMETETPVTLGV--  139 (139)
+Q Consensus       124 aHRal~~evevt~~v~~  140 (140)
+                      .|+++++-.+|+.+|++
+T Consensus       111 I~~TiskVAem~~~ve~  127 (127)
+T MBE6108391.1_2  111 IHQTISKVAEMELEVEI  127 (127)
+Confidence            99999999999988874
+
+
+No 75
+>MBE0700626.1_3-135
+Probab=31.37  E-value=0.097  Score=27.44  Aligned_cols=100  Identities=20%  Similarity=0.212  Sum_probs=83.9  Template_Neff=4.600
+
+Q WP_132031010.1   40 ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR-DGTGEAFAYDTHLFMQGEADDETFETLQRI  118 (139)
+Q Consensus        39 a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~-~t~a~A~p~dTHlFl~G~~dDe~t~~L~~~  117 (140)
+                      +++.+-.|-..|.+..|-||-..+.--.+.++++.++ +|.....+... .+.|..-.++..+.|+ +-+.+.+++|++.
+T Consensus        37 ~~~~GtNPEQLlglAwATCLnaTl~ail~~~g~~~~s-~V~V~V~l~~~~~~~Gy~F~~~A~v~i~-g~~~~~a~~~~~~  114 (137)
+T MBE0700626.1_3   37 SDEPGTNPEQLLGLAWATCLNATLQAVLKARGLDHES-RVRVEVDLHRDPDGPGYYFEVDAYVAIP-GVDLEEAQELAEA  114 (137)
+Confidence            5566677889999999999999999999999999554 55555555554 3477888888888887 5678889999999
+
+
+Q WP_132031010.1  119 AAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       118 AAntCYaHRal~~evevt~~v~~  140 (140)
+                      |++.|+....++....++++|+|
+T Consensus       115 Ah~RCPVSKLl~g~~~Vtv~ve~  137 (137)
+T MBE0700626.1_3  115 AHARCPVSKLLSGSPNVTVEVEI  137 (137)
+Confidence            99999999999999999999886
+
+
+No 76
+>WP_009451638.1_24-135
+Probab=28.48  E-value=0.12  Score=27.28  Aligned_cols=110  Identities=19%  Similarity=0.240  Sum_probs=91.5  Template_Neff=1.900
+
+Q WP_132031010.1   25 NRAGATVFAFTTDeT---------ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAF   95 (139)
+Q Consensus        25 pea~adrw~~~tD.~---------a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~   94 (140)
+                      ...+.+.|....| .         ....+-.|..++.+.++-|.--.|.+-|+.+|+++..+.|+....=.. +.+..+.
+T Consensus         4 ~~~~~g~f~~~T~.ag~~~~~gaPat~e~~~P~DlimaAL~sCvg~SlemaA~~~kid~G~v~i~V~aaKA~-DLP~RfG   81 (123)
+T WP_009451638.1    4 QSNGPGHFTYTTD.AGQTVAIGAPATEEVAAPYDLIMAALGSCVGISLEMAAQQKKIDLGTVSIEVNAAKAE-DLPSRFG   81 (123)
+Confidence            3445566666666 5         334444688999999999999999999999999999999988766554 4666677
+
+
+Q WP_132031010.1   96 AYDTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVT  136 (139)
+Q Consensus        95 p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt  135 (140)
+                      .++-.|-++.=|+.|...+|++.|.+.|-+.+++..+++++
+T Consensus        82 sf~~aV~l~~ied~e~a~~Llk~AK~~CTVSNtLNa~V~l~  122 (123)
+T WP_009451638.1   82 SFDAAVALDHIEDAEDAAELLKQAKEMCTVSNTLNAEVTLR  122 (123)
+Confidence            78889999999999999999999999999999998887665
+
+
+No 77
+>WP_094373617.1_71-173
+Probab=28.12  E-value=0.12  Score=26.94  Aligned_cols=96  Identities=19%  Similarity=0.142  Sum_probs=83.4  Template_Neff=2.700
+
+Q WP_132031010.1   40 ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLFMQGEADDETFETLQRIA  119 (139)
+Q Consensus        39 a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl~G~~dDe~t~~L~~~A  118 (140)
+                      |....|+|+..+++|||-|-||-+-.=++.+++.++++++...-.-.- +.  ....|.+++-+.++.+++.+++|++.-
+T Consensus        19 ~~~~ePtPmDLALTGIgSC~LtTLVGGGSArgvvFdsvem~i~~~~~~-~~--~g~~V~~~~~v~~~~dd~~i~ELv~qV   95 (115)
+T WP_094373617.1   19 GPPDEPTPMDLALTGIGSCSLTTLVGGGSARGVVFDSVEMDITCGAAD-GE--SGAAVSCRFDVGGVADDPLIEELVDQV   95 (115)
+Confidence            778899999999999999999999999999999999987765432211 11  167899999999999999999999999
+
+
+Q WP_132031010.1  120 AATCYLHRSMETETPVTLG  138 (139)
+Q Consensus       119 AntCYaHRal~~evevt~~  137 (140)
+                      ++--+=|.++..++|+.+.
+T Consensus        96 ~~~SPN~~Tl~~~~Pv~~~  114 (115)
+T WP_094373617.1   96 EDFSPNYRTLISPTPVDLD  114 (115)
+Confidence            9999999999999998764
+
+
+No 78
+>MBI9043196.1_33-125
+Probab=26.01  E-value=0.14  Score=25.89  Aligned_cols=93  Identities=17%  Similarity=0.277  Sum_probs=80.1  Template_Neff=1.800
+
+Q WP_132031010.1   44 APTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLFMQGEADDETFETLQRIAAATC  123 (139)
+Q Consensus        43 APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl~G~~dDe~t~~L~~~AAntC  122 (140)
+                      -|||...|+||++-|--.--..|.+..+|+-+.+++..+-+-+.  ...-+..+..++.+-.|-|+|+...|++.| .+|
+T Consensus         3 ~PSPf~lFlAsLgaCaaltA~GYC~~~~L~~eGmki~id~er~~--dtrlaS~ikme~v~P~~FP~e~~~~LvraA-g~C   79 (95)
+T MBI9043196.1_3    3 TPSPFKLFLASLGACAALTAAGYCEKHGLPPEGMKITIDVERDP--DTRLASEIKMEFVVPTDFPKEKVEALVRAA-GAC   79 (95)
+Confidence            59999999999999999999999999999999999887766554  445677899999999999999999999865 589
+
+
+Q WP_132031010.1  124 YLHRSMETETPVTLGV  139 (139)
+Q Consensus       123 YaHRal~~evevt~~v  138 (140)
+                      |+..-+.++-+.+++|
+T Consensus        80 fVK~h~~~~P~F~ttv   95 (95)
+T MBI9043196.1_3   80 FVKKHLYNPPEFETTV   95 (95)
+Confidence            9999988877666543
+
+
+No 79
+>PYU16216.1_3-104
+Probab=25.68  E-value=0.14  Score=27.05  Aligned_cols=102  Identities=16%  Similarity=0.211  Sum_probs=78.3  Template_Neff=3.800
+
+Q WP_132031010.1   40 ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDTHLFMQG-EADDETFETLQRI  118 (139)
+Q Consensus        39 a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dTHlFl~G-~~dDe~t~~L~~~  117 (140)
+                      |.+.+-+|-..+.|.-|=||...|..-....++..+++.+.-...+...+....+..|.-++.++- +.++++.+++++.
+T Consensus        39 ~~g~gTNPEELiaAAHAgCFsMaLs~~L~~aG~~~~~i~t~A~vtl~~~~ggf~It~I~L~~~~~Vpgid~~~F~~~Ae~  118 (142)
+T PYU16216.1_3-1   39 GPGKGTNPEELIAAAHAGCFSMALSAILEEAGFTPESIETTAEVTLEQEDGGFKITRIHLKVTAKVPGIDEATFQEAAER  118 (142)
+Confidence            667777888999999999999999999999999999999988888865433444444444433332 3445559999999
+
+
+Q WP_132031010.1  119 AAATCYLHRSMET-ETPVTLGV--  139 (139)
+Q Consensus       118 AAntCYaHRal~~-evevt~~v~~  140 (140)
+                      |.+.|++.++++. .+.++.+|+|
+T Consensus       119 Ak~~CPVSkaL~~~eIsL~a~i~~  142 (142)
+T PYU16216.1_3-1  119 AKKGCPVSKALNGNEISLDATIQV  142 (142)
+Confidence            9999999999988 5555555543
+
+
+No 80
+>OGG01700.1_29-173
+Probab=25.19  E-value=0.15  Score=27.53  Aligned_cols=114  Identities=14%  Similarity=0.233  Sum_probs=107.7  Template_Neff=3.200
+
+Q WP_132031010.1   27 AGATVFAFTTDeT-----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR-------DGTGEA   94 (139)
+Q Consensus        27 a~adrw~~~tD.~-----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~-------~t~a~A   93 (140)
+                      .....|.+..| |     |.+.+|+|+..+.+.++-|+---+..||..++++|++++++..+..+..       +..+++
+T Consensus        31 ~~~~~f~i~gD.eP~eL~G~d~gPnavE~LL~AlgsCla~~~~~~AAamGI~L~~l~v~~EGDlDl~G~~GL~e~VRPGf  109 (156)
+T OGG01700.1_29-   31 VDSRPFTIEGD.EPKELLGTDAGPNAVELLLSALGSCLAATYAMNAAAMGIELDSLEVEVEGDLDLRGFFGLSEDVRPGF  109 (156)
+Confidence            34579999999 9     9999999999999999999999999999999999999999999888877       677889
+
+
+Q WP_132031010.1   95 FAYDTHLFMQGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        94 ~p~dTHlFl~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      ..|...+.|+||.|+|.+++|.++++++|++..++++.+++..+++|
+T Consensus       110 ~~Ir~~~~I~s~A~~e~L~el~~~v~~~SPv~Dt~~n~V~~~~~~~~  156 (156)
+T OGG01700.1_29-  110 QNIRCTITIASDADEETLEELAEAVESTSPVLDTLRNPVTVSPQIEV  156 (156)
+Confidence            99999999999999999999999999999999999999999988875
+
+
+No 81
+>WP_139149186.1_4-108
+Probab=23.84  E-value=0.16  Score=27.00  Aligned_cols=89  Identities=15%  Similarity=0.233  Sum_probs=68.3  Template_Neff=2.300
+
+Q WP_132031010.1   40 ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAY-DTHLFMQGEADDET---FETL  115 (139)
+Q Consensus        39 a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~-dTHlFl~G~~dDe~---t~~L  114 (140)
+                      |.+..-+|-..+.+..+-||.+-|.-..+.+||++.++.+.-...-+..    .+.-+ .-++.|..+.++|.   ++++
+T Consensus        38 GSGnGa~PkeLLvsSAttCy~~tL~~mlEsRkLPV~e~t~~Se~~~s~~----~~~I~H~P~ivLS~~ATeeqiqsa~R~  113 (139)
+T WP_139149186.1   38 GSGNGADPKELLVSSATTCYIATLTSMLESRKLPVVEFTMNSEAEISDD----GFKITHYPKIVLSADATEEQIQSAERA  113 (139)
+Confidence            6777788899999999999999999999999999999888766522221    11111 12456666666555   6789
+
+
+Q WP_132031010.1  116 QRIAAATCYLHRSMETE  132 (139)
+Q Consensus       115 ~~~AAntCYaHRal~~e  131 (140)
+                      ++-|.+.|-+.+.++++
+T Consensus       114 ie~ADk~C~VGNLLkkA  130 (139)
+T WP_139149186.1  114 IEGADKGCAVGNLLKKA  130 (139)
+Confidence            99999999999999876
+
+
+No 82
+>WP_129189110.1_4-151
+Probab=23.65  E-value=0.16  Score=26.49  Aligned_cols=111  Identities=13%  Similarity=0.095  Sum_probs=96.6  Template_Neff=5.000
+
+Q WP_132031010.1   30 TVFAFTTDeT---ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVR-DGTGEAFAYDT--HLFM  103 (139)
+Q Consensus        30 drw~~~tD.~---a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~-~t~a~A~p~dT--HlFl  102 (140)
+                      .....-+| .   |+...-+|-..|.|.|+=|-|--+-..+...++.+.+|+=.-.+..... ++.|.+..|..  +|.|
+T Consensus        40 ~~l~~Sa~.p~f~GD~~~~NPEeLllaAlssCHML~fL~laa~~gi~V~~Y~D~a~g~l~~~~~g~g~~t~v~LrP~V~i  118 (156)
+T WP_129189110.1   40 PDIPGSAD.PAFRGDPSRWNPEELLVAALSSCHMLWYLHLCARAGIVVTAYEDEAEGTMEENADGSGRFTEVTLRPRVTV  118 (156)
+Confidence            44555666 6   8899999999999999999999999999999999999998888777774 66777777655  5777
+
+
+Q WP_132031010.1  104 QGEADDETFETLQRIAAATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus       103 ~G~~dDe~t~~L~~~AAntCYaHRal~~evevt~~v~~  140 (140)
+                      ..+.+.+++++|.+.|.+.||.-+.+.-++.++-+|+|
+T Consensus       119 ~~~~d~~~a~~LH~~AH~~CfIAnSv~~pV~~ep~v~V  156 (156)
+T WP_129189110.1  119 ADGSDIEKARALHEKAHELCFIANSVNFPVRHEPTIEV  156 (156)
+Confidence            78889999999999999999999999999999988876
+
+
+No 83
+>ORY46834.1_51-170
+Probab=21.39  E-value=0.19  Score=25.69  Aligned_cols=116  Identities=13%  Similarity=0.236  Sum_probs=100.7  Template_Neff=5.000
+
+Q WP_132031010.1   24 LNRAGATVFAFTTDeT----ASGRAPTGLTHISAAVAFCYMTQLSRYIDGMKLPIRGVRLVQMSPWGVRDGTGEAFAYDT   99 (139)
+Q Consensus        24 fpea~adrw~~~tD.~----a~~~APspL~yfsigtAFCYhTQLcRYvdvrrlPi~~~RLvQ~S~f~~~~t~a~A~p~dT   98 (140)
+                      |-..+++++.+.-| .    |.+.+|+|...+++++|=|--.-+-...++++.++++++|+..+.=.. ..+-.+..|..
+T Consensus        20 F~~~~~~g~~v~~d.~~~~gg~~~g~~P~eLLL~Ala~Csa~DVV~IL~K~R~~~~~l~V~v~ger~~-e~P~~ft~I~l   97 (141)
+T ORY46834.1_51-   20 FVGTDSSGHSVVID.APPEGGEGTGPSPMELLLAALAGCSAVDVVSILEKKRQPLTSLEVEVEGERAE-EPPRRFTKIHL   97 (141)
+Confidence            33445666777777 4    689999999999999999999999999999999999999999887665 47777889999
+
+
+Q WP_132031010.1  100 HLFMQGE-ADDETFETLQRIAA-ATCYLHRSMETETPVTLGV--  139 (139)
+Q Consensus        99 HlFl~G~-~dDe~t~~L~~~AA-ntCYaHRal~~evevt~~v~~  140 (140)
+                      |-.+.++ -+++++++.++.++ .-|-++++++..++++.+++|
+T Consensus        98 ~y~v~G~~l~~~~verAI~LS~eKYCSV~atL~~~~~it~~~eI  141 (141)
+T ORY46834.1_51-   98 HYRVRGEGLDPKKVERAIELSEEKYCSVSATLRGDAEITSSYEI  141 (141)
+Confidence            9999999 78889999999886 569999999999999998875
+
+

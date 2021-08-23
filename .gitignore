@@ -1,0 +1,6 @@
+work/
+data/c80i70/
+data/*c100i100*
+data/*merged.faa
+.DS_Store  
+*.hmmscan.out
