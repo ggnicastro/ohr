@@ -13,4 +13,4 @@ Aqueles clusters que apresentaram menos de 3 representantes a com 70% de identid
 Alinhamento para cada um dos clusters (1e-3) foram realizado, e podem ser conferidos [nessa tabela](./data/groups.md).  
 Uma rede foi construída utilizando a comparação de cada um desses alinhamentos e o algoritimo de Louvain foi utilizado para criar 3 comunidades.  
 [Tabela com os valores das relações entre cada um dos alinhamentos.](./data/hhsearch_table.out)  
-v
+
